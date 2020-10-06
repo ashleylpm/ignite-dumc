@@ -3,14 +3,18 @@
 }
 
 .section-1 {
-  background-color: #282c34;
+  background-color: orange;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  justify-content: end;
   align-items: center;
-  justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.section-1 button {
+  margin-bottom: 2rem;
 }
 
 .section-2 {
@@ -46,6 +50,29 @@
   color: white;
 }
 
+.column-1 {
+  background-color: black;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.column-2 {
+  background-color: white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
 .section-5 {
   background-color: yellow;
   min-height: 100vh;
@@ -56,3 +83,6 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+
+
