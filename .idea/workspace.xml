@@ -48,6 +48,7 @@
       <updated>1601949559698</updated>
       <workItem from="1601949561017" duration="1855000" />
       <workItem from="1601954142875" duration="244000" />
+      <workItem from="1601954964524" duration="2568000" />
     </task>
     <servers />
   </component>
@@ -67,9 +68,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="450" y="369" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1601950540798">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="600" y="443" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1601955556760">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="450" y="369" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1440.900@0.0.1440.900" timestamp="1601950540798" />
+    <state x="600" y="443" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/1920.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1601955556760" />
   </component>
 </project>
