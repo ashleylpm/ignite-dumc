@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -11,17 +14,63 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11d1a5ba-b057-4899-acdf-71cc8297de1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Container/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Filler/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Form/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modal/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TriggerButton/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Images 2/IGNITEMY Logos Transparent-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Images 2/IGNITEMY Logos Transparent-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Images 2/IGNITEMY Logos Transparent-12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Images 2/IGNITEMY Logos-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Images 2/IGNITEMY Logos-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Images 2/IGNITEMY Logos-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Images 2/IGNITEMY Logos-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Images 2/IGNITEMY Logos-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Images 2/IGNITEMY Logos-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Images 2/IGNITEMY Logos-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Images 2/IGNITEMY Logos-08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Images 2/IGNITEMY Logos-09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Images 2/IGNITERALLY Logo-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Images/IGNITEYLS Website Draft1-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Images/IGNITEYLS Website Draft1-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Images/IGNITEYLS Website Draft1-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Images/IGNITEYLS Website Draft1-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Images/IGNITEYLS Website Draft1-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/background/IGNITEYLS Website Draft2-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/background/IGNITEYLS Website Draft2-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/background/IGNITEYLS Website Draft2-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/background/IGNITEYLS Website Draft2-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/background/IGNITEYLS Website Draft2-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/background/IGNITEYLS Website Draft2-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/background/IGNITEYLS Website Draft2-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/background/IGNITEYLS Website Draft2-08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/background/IGNITEYLS Website Draft2-09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/background/IGNITEYLS Website Draft2-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/background/IGNITEYLS Website Draft2-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/background/IGNITEYLS Website Draft2-12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/background/IGNITEYLS Website Draft2-13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/background/IGNITEYLS Website Draft2-14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/background/IGNITEYLS Website Draft2-15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/background/IGNITEYLS Website Draft2-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/fonts/Gotham-Black.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/fonts/Gotham-Light.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/fonts/Gotham-UltraItalic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ignite-logo/IGNITERALLY LOGOS-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ignite-logo/IGNITERALLY LOGOS-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ignite-logo/IGNITERALLY LOGOS-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ignite-logo/IGNITEYLS Logos Transparent-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ignite-logo/IGNITEYLS Logos Transparent-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ignite-logo/IGNITEYLS VIS.ai" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ignite-logo/iYLS-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ignite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ignite.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/home.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/frontend/app/Http/Controllers/Homecredit/FallbackController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../web/frontend/app/Http/Controllers/Homecredit/FallbackController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/frontend/config/homecredit/plp.php" beforeDir="false" afterPath="$PROJECT_DIR$/../web/frontend/config/homecredit/plp.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/frontend/resources/views/homecredit/pages/product-listing/partials/quick-filter-carousel.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../web/frontend/resources/views/homecredit/pages/product-listing/partials/quick-filter-carousel.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/frontend/src/Fallback/Contracts/Filtered/Filtered.php" beforeDir="false" afterPath="$PROJECT_DIR$/../web/frontend/src/Fallback/Contracts/Filtered/Filtered.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +84,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iUFCvgDgg5dwRv9jTY6FvZyMmx" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -43,6 +92,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -52,6 +102,11 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -63,7 +118,10 @@
       <updated>1601949559698</updated>
       <workItem from="1601949561017" duration="1855000" />
       <workItem from="1601954142875" duration="244000" />
-      <workItem from="1601954964524" duration="6991000" />
+      <workItem from="1601954964524" duration="7599000" />
+      <workItem from="1602125585975" duration="6973000" />
+      <workItem from="1602729343183" duration="12554000" />
+      <workItem from="1602814837105" duration="8609000" />
     </task>
     <servers />
   </component>
@@ -82,19 +140,42 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="698" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601968595220">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="698" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1601968595220" />
-    <state x="667" y="295" width="586" height="490" key="find.popup" timestamp="1601973251576">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="355" y="137" width="1506" height="703" key="find.popup" timestamp="1602752239935">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="667" y="295" width="586" height="490" key="find.popup/1920.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1601973251576" />
+    <state x="355" y="137" width="1506" height="703" key="find.popup/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1602752239935" />
+    <state x="625" y="256" key="run.anything.popup" timestamp="1602741572656">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="625" y="256" key="run.anything.popup/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1602741572656" />
+    <state x="1073" y="202" width="670" height="676" key="search.everywhere.popup" timestamp="1602830158683">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1073" y="202" width="670" height="676" key="search.everywhere.popup/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1602830158683" />
     <state x="600" y="443" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1601955556760">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="450" y="369" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1440.900@0.0.1440.900" timestamp="1601950540798" />
     <state x="600" y="443" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/1920.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1601955556760" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/../web/frontend/resources/views/partners/master.blade.php</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ignite.iml" filepath="$PROJECT_DIR$/.idea/ignite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../library/.idea/library.iml" filepath="$PROJECT_DIR$/../library/.idea/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../web/.idea/web.iml" filepath="$PROJECT_DIR$/../web/.idea/web.iml" />
     </modules>
   </component>
 </project>
