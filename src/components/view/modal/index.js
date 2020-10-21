@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import {Form} from '../form';
+import { Form } from '../form/index';
 import FocusTrap from 'focus-trap-react';
 
 export const Modal = ({
@@ -11,7 +11,6 @@ export const Modal = ({
                           closeModal,
                           onSubmit
                       }) => {
-
     return ReactDOM.createPortal(
         <FocusTrap>
             <aside
@@ -35,11 +34,11 @@ export const Modal = ({
               Close
             </span>
                         <svg className="_modal-close-icon" viewBox="0 0 40 40">
-                            <path d="M 10,10 L 30,30 M 30,10 L 10,30"/>
+                            <path d="M 10,10 L 30,30 M 30,10 L 10,30" />
                         </svg>
                     </button>
                     <div className="modal-body">
-                        <Form onSubmit={onSubmit}/>
+                        <Form onSubmit={onSubmit} />
                     </div>
                 </div>
             </aside>

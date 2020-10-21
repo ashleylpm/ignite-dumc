@@ -2,7 +2,7 @@ import React from "react";
 import '../styles/home.css';
 import * as RB from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Container } from '../view/form-container/index';
+import { FormContainer } from '../view/form-container/index';
 import styled from "styled-components";
 import Header from "../header";
 
@@ -18,7 +18,7 @@ function Home() {
             <div>
                 <div className="section-1 text-center">
                     <div className="registerBtn">
-                        <Container triggerText={triggerText} onSubmit={onSubmit} />
+                        <FormContainer triggerText={triggerText} onSubmit={onSubmit} />
                     </div>
                 </div>
 
@@ -55,19 +55,3 @@ const Wrapper = styled.div`
 `;
 
 export default Home;
-// function Home() {
-//     return (
-//         <Wrapper>
-//             <div className="title">Welcome to Page Transition App!</div>
-//             <section>
-//                 <p>Click the links on header to change routes!</p>
-//             </section>
-//         </Wrapper>
-//     );
-//
-//
-// const Wrapper = styled.div`
-//     /* omitted */
-// `;
-//
-// export default Home;

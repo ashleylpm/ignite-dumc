@@ -1,17 +1,17 @@
-import React, {Component} from 'react';
-import {Modal} from '../modal';
-import TriggerButton from '../buttons';
+import React, { Component } from 'react';
+import { Modal } from '../modal/index';
+import Trigger from '../buttons/index';
 
-export class Container extends Component {
-    state = {isShown: false};
+export class FormContainer extends Component {
+    state = { isShown: false };
     showModal = () => {
-        this.setState({isShown: true}, () => {
+        this.setState({ isShown: true }, () => {
             this.closeButton.focus();
         });
         this.toggleScrollLock();
     };
     closeModal = () => {
-        this.setState({isShown: false});
+        this.setState({ isShown: false });
         this.TriggerButton.focus();
         this.toggleScrollLock();
     };
@@ -32,7 +32,7 @@ export class Container extends Component {
     render() {
         return (
             <React.Fragment>
-                <TriggerButton
+                <Trigger
                     showModal={this.showModal}
                     buttonRef={(n) => (this.TriggerButton = n)}
                     triggerText={this.props.triggerText}
@@ -52,4 +52,4 @@ export class Container extends Component {
     }
 }
 
-export default Container;
+export default FormContainer;
