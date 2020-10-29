@@ -3,9 +3,9 @@ import YouTube from 'react-youtube';
 import '../styles/home.css';
 import * as RB from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { FormContainer } from '../view/form-container/index';
 import styled from "styled-components";
 import Header from "../header";
+import RegisterHome from "../register-home";
 
 function Home() {
     const triggerText = 'Register Now for Free';
@@ -25,9 +25,7 @@ function Home() {
         <Wrapper>
             <div>
                 <div className="section-1 text-center">
-                    <div className="registerBtn">
-                        <FormContainer triggerText={triggerText} onSubmit={onSubmit} />
-                    </div>
+                    <RegisterHome />
                 </div>
 
                 <div className="section-2 text-center">
@@ -46,8 +44,10 @@ function Home() {
                     </RB.Container>
                 </div>
 
-                <div className="section-4 text-center">
-                </div>
+                <a href="https://instagram.com/ignitemy______?igshid=jkcmbphuplgl" target="_blank" >
+                    <div className="section-4 text-center">
+                    </div>
+                </a>
 
                 <div className="section-5 text-center">
                 </div>

@@ -2,10 +2,63 @@
     background: black url("../images/background/IGNITEYLS Website Draft2-08.png") no-repeat center;
     background-size: 100% 100%;
     height: 150em;
+    width: 100%;
     margin: 0;
     padding: 0;
     overflow: hidden;
     align-items: center;
+}
+
+.registerBtn {
+    min-width: 100%;
+    bottom: 0;
+    position: absolute;
+}
+
+.attendInPerson {
+    background : transparent url("../images/buttons/buttons-full/Register Buttons Full-02.png") no-repeat center;
+    background-size: 100% 100%;
+    height: 7rem;
+    width: 30rem;
+    color: transparent;
+    padding-top: 2rem;
+    margin-top: 90rem;
+    left: 63%;
+    border: none;
+    position: sticky;
+}
+
+.attendInPerson button:hover {
+    color: transparent;
+    background-color: transparent;
+}
+
+.attendInPerson button:active {
+    color: transparent;
+    background-color: transparent;
+}
+
+.attendOnline {
+    background : transparent url("../images/buttons/buttons-full/Register Buttons Full-01.png") no-repeat center;
+    background-size: 100% 100%;
+    height: 7rem;
+    width: 30rem;
+    color: transparent;
+    padding-top: 2rem;
+    top: 85%;
+    left: 63%;
+    border: none;
+    position: sticky;
+}
+
+.attendOnline button:hover {
+    color: transparent;
+    background-color: transparent;
+}
+
+.attendOnline button:active {
+    color: transparent;
+    background-color: transparent;
 }
 
 .whatIsIgnite {

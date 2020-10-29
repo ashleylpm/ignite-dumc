@@ -16,7 +16,7 @@ function Container({ location }) {
                 >
                     <Switch location={location}>
                         <Route exact path="/" component={Home} />
-                        <Route path="/first" component={First} />
+                        <Route path="/iyls-info" component={First} />
                     </Switch>
                 </CSSTransition>
             </TransitionGroup>

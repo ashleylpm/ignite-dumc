@@ -2,10 +2,10 @@ import React from "react";
 import styled from "styled-components";
 import { Link } from "react-router-dom";
 
-function Header() {
+function RegisterHome() {
     return (
         <Wrapper>
-            <div className="tellMeMoreBtn">
+            <div className="registerHomeBtn">
                 <Link to="/iyls-info" className="container">First</Link>
             </div>
         </Wrapper>
@@ -18,4 +18,4 @@ const Wrapper = styled.div`
   align-items: center;
 `;
 
-export default Header;
+export default RegisterHome;

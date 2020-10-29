@@ -1,13 +1,13 @@
 import React from 'react';
-const Trigger = ({ triggerText, buttonRef, showModal }) => {
+const Trigger2 = ({ triggerText, buttonRef, showModal }) => {
     return (
         <button
             ref={buttonRef}
             onClick={showModal}
-            className="attendInPerson"
+            className="attendOnline"
         >
             {triggerText}
         </button>
     );
 };
-export default Trigger;
+export default Trigger2;

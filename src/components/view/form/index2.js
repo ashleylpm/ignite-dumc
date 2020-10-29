@@ -1,6 +1,6 @@
 import React from 'react';
 
-export const Form = ({ onSubmit }) => {
+export const Form2 = () => {
 
     let name = React.createRef();
     let age = React.createRef();
@@ -60,7 +60,7 @@ export const Form = ({ onSubmit }) => {
         <form
             action="https://docs.google.com/forms/u/0/d/e/1FAIpQLScBBZVsWryNH8ashxCe4VURIqF7UuCkunc7rPh65tuObsnLBw/formResponse"
             method="POST"
-            target="_blank">
+            onSubmit="setTimeout(function () { window.location.reload(); }, 10)" >
             <div className="disclaimer-container">
                 <div className="disclaimer-image">
                     .
@@ -127,4 +127,4 @@ export const Form = ({ onSubmit }) => {
         </form>
     );
 };
-export default Form;
+export default Form2;
