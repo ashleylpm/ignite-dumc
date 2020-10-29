@@ -1,13 +1,10 @@
 import React from 'react';
 const Trigger2 = ({ triggerText, buttonRef, showModal }) => {
     return (
-        <button
-            ref={buttonRef}
-            onClick={showModal}
-            className="attendOnline"
-        >
-            {triggerText}
-        </button>
+        <img ref={buttonRef}
+             onClick={showModal}
+             className="attendInPerson"
+             src={require('../../images/buttons/buttons-full/registerOnline.png')}/>
     );
 };
 export default Trigger2;

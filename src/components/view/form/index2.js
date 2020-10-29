@@ -57,22 +57,14 @@ export const Form2 = () => {
         }
     }
     return (
+        //Online
         <form
             action="https://docs.google.com/forms/u/0/d/e/1FAIpQLScBBZVsWryNH8ashxCe4VURIqF7UuCkunc7rPh65tuObsnLBw/formResponse"
             method="POST"
-            onSubmit="setTimeout(function () { window.location.reload(); }, 10)" >
-            <div className="disclaimer-container">
-                <div className="disclaimer-image">
-                    .
-                </div>
-            </div>
-            <label className="checkbox-container">
-                <input type="checkbox" required/>
-                <span className="checkmark"></span>
-                <label htmlFor="name" className="formCheckbox">checkbox</label><br/>
-            </label>
+            target="_blank">
+            <img src={require('../../images/form/registration.png')} className="registrationTitle"/>
             <div className="form-group">
-                <label htmlFor="name"  className="formName">NAME (AS PER NRIC)</label><br/>
+                <label htmlFor="name" className="formName">NAME (AS PER NRIC)</label><br/>
                 <input id="input-one" onKeyUp={handleKeyUp} ref={name} name="entry.721542083" required/>
             </div>
             <div className="form-group">
@@ -80,8 +72,9 @@ export const Form2 = () => {
                 <input id="input-two" type="number" onKeyUp={handleKeyUp} ref={age} name="entry.1143716750" required/>
             </div>
             <div className="form-group">
-                <label htmlfor="name" className="formNRIC">NRIC</label><br/>
-                <input name="entry.327666305" id="input-three" onKeyUp={nric} ref={nric} required pattern="[0-9]{6}-[0-9]{2}-[0-9]{4}"/>
+                <label htmlFor="name" className="formNRIC">NRIC</label><br/>
+                <input name="entry.327666305" id="input-three" onKeyUp={nric} ref={nric} required
+                       pattern="[0-9]{6}-[0-9]{2}-[0-9]{4}"/>
             </div>
             <div className="form-group">
                 <label htmlFor="name" className="formHP">HANDPHONE NUMBER</label><br/>
@@ -91,9 +84,11 @@ export const Form2 = () => {
                 <label htmlFor="email" className="formEmail">EMAIL</label><br/>
                 <input name="entry.1655592159" id="input-five" onKeyUp={email} required type="email"/>
             </div>
+            <img src={require('../../images/form/participantKit.png')} className="participantKit"/>
             <div className="form-group">
                 <label htmlFor="name" className="formHouse">HOUSE UNIT NUMBER</label><br/>
-                <input name="entry.1437269770" id="input-six" onKeyUp={address} required/>
+                <input name="entry.1437269770" id="input-six" onKeyUp={address} required
+                       placeholder="Full Mailing Address please"/>
             </div>
             <div className="form-group">
                 <label htmlFor="name" className="formCity">CITY</label><br/>
@@ -119,12 +114,23 @@ export const Form2 = () => {
                 <label htmlFor="name" className="formRemarks">REMARKS</label><br/>
                 <input name="entry.951197177"/>
             </div>
+            <div className="disclaimer-container">
+                <div className="disclaimer-image">
+                    .
+                </div>
+            </div>
+            <label className="checkbox-container">
+                <input type="checkbox" required/>
+                <span className="checkmark"></span>
+                <label htmlFor="name" className="formCheckbox">checkbox</label><br/>
+            </label>
             <div className="form-group text-center">
-                <button type="submit" onsubmit="post();return false;">
+                <button type="submit" onSubmit="post();return false;">
                     Submit
                 </button>
             </div>
         </form>
+
     );
 };
 export default Form2;

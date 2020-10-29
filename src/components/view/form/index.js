@@ -57,20 +57,12 @@ export const Form = ({ onSubmit }) => {
         }
     }
     return (
+        //In Person
         <form
-            action="https://docs.google.com/forms/u/0/d/e/1FAIpQLScBBZVsWryNH8ashxCe4VURIqF7UuCkunc7rPh65tuObsnLBw/formResponse"
+            action="https://docs.google.com/forms/u/2/d/e/1FAIpQLSd7nz1za4bsjhTQwEYIfJC0AHr_KNOvN5pGFUOeCkGhJY4mMQ/formResponse"
             method="POST"
-            target="_blank">
-            <div className="disclaimer-container">
-                <div className="disclaimer-image">
-                    .
-                </div>
-            </div>
-            <label className="checkbox-container">
-                <input type="checkbox" required/>
-                <span className="checkmark"></span>
-                <label htmlFor="name" className="formCheckbox">checkbox</label><br/>
-            </label>
+            target="_blank" >
+            <img src={require('../../images/form/registration.png')} className="registrationTitle"/>
             <div className="form-group">
                 <label htmlFor="name"  className="formName">NAME (AS PER NRIC)</label><br/>
                 <input id="input-one" onKeyUp={handleKeyUp} ref={name} name="entry.721542083" required/>
@@ -91,21 +83,22 @@ export const Form = ({ onSubmit }) => {
                 <label htmlFor="email" className="formEmail">EMAIL</label><br/>
                 <input name="entry.1655592159" id="input-five" onKeyUp={email} required type="email"/>
             </div>
+            <img src={require('../../images/form/participantKit.png')} className="participantKit"/>
             <div className="form-group">
                 <label htmlFor="name" className="formHouse">HOUSE UNIT NUMBER</label><br/>
                 <input name="entry.1437269770" id="input-six" onKeyUp={address} required/>
             </div>
             <div className="form-group">
                 <label htmlFor="name" className="formCity">CITY</label><br/>
-                <input name="entry.84102190" id="input-seven" onKeyUp={city} required/>
+                <input name="entry.2013157772" id="input-seven" onKeyUp={city} required/>
             </div>
             <div className="form-group">
                 <label htmlFor="name" className="formPostcode">POSTCODE</label><br/>
-                <input name="entry.1929556469" id="input-eight" onKeyUp={postcode} required/>
+                <input name="entry.1341572389" id="input-eight" onKeyUp={postcode} required/>
             </div>
             <div className="form-group">
                 <label htmlFor="name" className="formState">STATE</label><br/>
-                <input name="entry.1820238470" id="input-nine" onKeyUp={state} required/>
+                <input name="entry.988456934" id="input-nine" onKeyUp={state} required/>
             </div>
             <div className="form-group">
                 <label htmlFor="name" className="formSchool">WHICH SCHOOL ARE YOU FROM?</label><br/>
@@ -119,6 +112,16 @@ export const Form = ({ onSubmit }) => {
                 <label htmlFor="name" className="formRemarks">REMARKS</label><br/>
                 <input name="entry.951197177"/>
             </div>
+            <div className="disclaimer-container">
+                <div className="disclaimer-image">
+                    .
+                </div>
+            </div>
+            <label className="checkbox-container">
+                <input type="checkbox" required/>
+                <span className="checkmark"></span>
+                <label htmlFor="name" className="formCheckbox">checkbox</label><br/>
+            </label>
             <div className="form-group text-center">
                 <button type="submit" onsubmit="post();return false;">
                     Submit

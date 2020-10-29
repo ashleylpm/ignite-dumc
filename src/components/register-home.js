@@ -6,7 +6,9 @@ function RegisterHome() {
     return (
         <Wrapper>
             <div className="registerHomeBtn">
-                <Link to="/iyls-info" className="container">First</Link>
+                <Link to="/iyls-info" className="container">
+                    <img src={require('./images/buttons/buttons-full/button1.png')}/>
+                </Link>
             </div>
         </Wrapper>
     );

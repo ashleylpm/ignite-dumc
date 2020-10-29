@@ -6,7 +6,9 @@ function Header() {
     return (
         <Wrapper>
             <div className="tellMeMoreBtn">
-                <Link to="/iyls-info" className="container">First</Link>
+                <Link to="/iyls-info" className="container">
+                    <img src={require('./images/buttons/buttons-full/button4.png')}/>
+                </Link>
             </div>
         </Wrapper>
     );
