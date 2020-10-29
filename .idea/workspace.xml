@@ -14,18 +14,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11d1a5ba-b057-4899-acdf-71cc8297de1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/images/form/IGNITEYLS Form-15.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/background/IGNITEYLS Website Draft2-042.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/form/IGNITEYLS Form DISCLAIMER.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/form/IGNITEYLS Form MOBILE DISCLAIMER.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/form/IGNITEYLS Form-17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/form/IGNITEYLS Form-18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/form/IGNITEYLS Form-19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/ignite-youth/IGNITEYLS Website D3-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/ignite-youth/IGNITEYLS Website D3-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/ignite-youth/IGNITEYLS Website D3-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/ignite-youth/IGNITEYLS Website D3-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/ignite-youth/IGNITEYLS Website D3-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/ignite-youth/IGNITEYLS Website D3-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/ignite-youth/IGNITEYLS Website D3-08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/ignite-youth/IGNITEYLS Website D3-09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/ignite-youth/IGNITEYLS Website D3-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/ignite-youth/IGNITEYLS Website D3-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/ignite-youth/IGNITEYLS Website D3-12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/ignite-youth/IGNITEYLS Website D3-13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/ignite-youth/IGNITEYLS Website D3-14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/ignite-youth/IGNITEYLS Website D3-15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/ignite-youth/IGNITEYLS Website D3-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/ignite-youth/IGNITEYLS Website D3-17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/ignite-youth/IGNITEYLS Website D3-18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react/scrollToTop.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/images/background/IGNITEYLS Website Draft2-02.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/images/background/IGNITEYLS Website Draft2-02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/images/background/IGNITEYLS Website Draft2-05.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/images/background/IGNITEYLS Website Draft2-05.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/images/background/IGNITEYLS Website Draft2-06.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/images/background/IGNITEYLS Website Draft2-06.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/images/background/IGNITEYLS Website Draft2-08.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/images/background/IGNITEYLS Website Draft2-08.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/images/background/IGNITEYLS Website Draft2-09.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/images/background/IGNITEYLS Website Draft2-09.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/images/background/IGNITEYLS Website Draft2-10.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/images/background/IGNITEYLS Website Draft2-10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/images/background/IGNITEYLS Website Draft2-11.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/images/background/IGNITEYLS Website Draft2-11.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/styles/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/home.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/view/first.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/first.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/view/form-container/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/form-container/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/styles/igniteYouth.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/igniteYouth.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/view/form/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/form/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/view/modal/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/modal/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/view/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/home.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +117,7 @@
       <workItem from="1603247084255" duration="3000" />
       <workItem from="1603247103558" duration="64000" />
       <workItem from="1603681567312" duration="11215000" />
+      <workItem from="1603940388247" duration="8073000" />
     </task>
     <servers />
   </component>
@@ -143,11 +172,11 @@
       <screen x="1920" y="250" width="1920" height="1050" />
     </state>
     <state x="2696" y="495" key="RollbackChangesDialog/0.0.1920.1050/1920.250.1920.1050@1920.250.1920.1050" timestamp="1603683446059" />
-    <state x="2275" y="363" width="1507" height="699" key="find.popup" timestamp="1603721081568">
-      <screen x="1920" y="250" width="1920" height="1050" />
+    <state x="355" y="113" width="1507" height="699" key="find.popup" timestamp="1603950012711">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="266" y="97" width="1130" height="599" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1603080205538" />
-    <state x="355" y="113" width="1507" height="699" key="find.popup/0.0.1920.1050/1920.250.1920.1050@0.0.1920.1050" timestamp="1603688342139" />
+    <state x="355" y="113" width="1507" height="699" key="find.popup/0.0.1920.1050/1920.250.1920.1050@0.0.1920.1050" timestamp="1603950012711" />
     <state x="2275" y="363" width="1507" height="699" key="find.popup/0.0.1920.1050/1920.250.1920.1050@1920.250.1920.1050" timestamp="1603721081568" />
     <state x="667" y="295" width="586" height="490" key="find.popup/1920.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1601973251576" />
     <state x="355" y="137" width="1506" height="703" key="find.popup/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1602838396328" />

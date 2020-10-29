@@ -1,4 +1,5 @@
 import React from "react";
+import YouTube from 'react-youtube';
 import '../styles/home.css';
 import * as RB from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -10,6 +11,13 @@ function Home() {
     const triggerText = 'Register Now for Free';
     const onSubmit = (event) => {
         event.preventDefault(event);
+    };
+    const opts = {
+        height: '490',
+        width: '940',
+        playerVars: {
+            autoplay: 0,
+        }
     };
 
 
@@ -23,6 +31,7 @@ function Home() {
                 </div>
 
                 <div className="section-2 text-center">
+                    <YouTube videoId="st3Y70Z6tio" opts={opts} className='youtube-video'/>
                 </div>
 
                 <div className="section-3 text-center">

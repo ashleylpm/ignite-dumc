@@ -6,6 +6,11 @@ export const Form = ({ onSubmit }) => {
             action="https://docs.google.com/forms/u/0/d/e/1FAIpQLScBBZVsWryNH8ashxCe4VURIqF7UuCkunc7rPh65tuObsnLBw/formResponse"
               method="POST"
               onsubmit="setTimeout(function () { window.location.reload(); }, 10)" >
+            <div className="disclaimer-container">
+                <div className="disclaimer-image">
+                    .
+                </div>
+            </div>
             <div className="form-group">
                 <label htmlFor="name" className="formName">NAME (AS PER NRIC)</label><br/>
                 <input name="entry.721542083" />
