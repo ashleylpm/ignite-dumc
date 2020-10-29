@@ -7,55 +7,55 @@ export const Form = ({ onSubmit }) => {
               method="POST"
               onsubmit="setTimeout(function () { window.location.reload(); }, 10)" >
             <div className="form-group">
-                <label htmlFor="name">NAME (AS PER NRIC)</label>
+                <label htmlFor="name" className="formName">NAME (AS PER NRIC)</label><br/>
                 <input name="entry.721542083" />
             </div>
             <div className="form-group">
-                <label htmlFor="name">AGE</label>
+                <label htmlFor="name" className="formAge">AGE</label><br/>
                 <input name="entry.1143716750" />
             </div>
             <div className="form-group">
-                <label htmlfor="name">NRIC</label>
+                <label htmlfor="name" className="formNRIC">NRIC</label><br/>
                 <input name="entry.327666305" />
             </div>
             <div className="form-group">
-                <label htmlFor="name">HANDPHONE NUMBER</label>
+                <label htmlFor="name" className="formHP">HANDPHONE NUMBER</label><br/>
                 <input name="entry.239975958" />
             </div>
             <div className="form-group">
-                <label htmlFor="email">EMAIL</label>
+                <label htmlFor="email" className="formEmail">EMAIL</label><br/>
                 <input name="entry.1655592159" />
             </div>
             <div className="form-group">
-                <label htmlFor="name">HOUSE UNIT NUMBER</label>
+                <label htmlFor="name" className="formHouse">HOUSE UNIT NUMBER</label><br/>
                 <input name="entry.1437269770" />
             </div>
             <div className="form-group">
-                <label htmlFor="name">CITY</label>
+                <label htmlFor="name" className="formCity">CITY</label><br/>
                 <input name="entry.84102190" />
             </div>
             <div className="form-group">
-                <label htmlFor="name">POSTCODE</label>
+                <label htmlFor="name" className="formPostcode">POSTCODE</label><br/>
                 <input name="entry.1929556469" />
             </div>
             <div className="form-group">
-                <label htmlFor="name">STATE</label>
+                <label htmlFor="name" className="formState">STATE</label><br/>
                 <input name="entry.1820238470" />
             </div>
             <div className="form-group">
-                <label htmlFor="name">WHICH SCHOOL ARE YOU FROM?</label>
+                <label htmlFor="name" className="formSchool">WHICH SCHOOL ARE YOU FROM?</label><br/>
                 <input name="entry.625339323"/>
             </div>
             <div className="form-group">
-                <label htmlFor="name">Are you a teacher or a student?</label>
+                <label htmlFor="name" className="formTeach">Are you a teacher or a student?</label><br/>
                 <input name="entry.1397607618" />
             </div>
             <div className="form-group">
-                <label htmlFor="name">REMARKS</label>
+                <label htmlFor="name" className="formRemarks">REMARKS</label><br/>
                 <input name="entry.951197177" />
             </div>
-            <div className="form-group">
-                <button className="form-control btn btn-primary" type="submit">
+            <div className="form-group text-center">
+                <button type="submit">
                     Submit
                 </button>
             </div>

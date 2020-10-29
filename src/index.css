@@ -55,8 +55,14 @@ p.lorem-text {
         top: 50%;
         height: auto;
         transform: translate(-50%, -50%);
-        max-width: 30em;
+        max-width: 50em;
         max-height: calc(100% - 1em);
+        -ms-overflow-style: none;  /* IE and Edge */
+        scrollbar-width: none;  /* Firefox */
+    }
+
+    .modal-area::-webkit-scrollbar {
+        display: none;
     }
 }
 
@@ -83,6 +89,7 @@ p.lorem-text {
 
 .modal-body {
     padding-top: 0.25em;
+    overflow: hidden;
 }
 ._hide-visual {
     border: 0 !important;

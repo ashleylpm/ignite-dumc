@@ -2,6 +2,11 @@
   text-align: center;
 }
 
+.orange {
+  background-color: orange;
+  color: orange;
+}
+
 .section-1 {
   background: black url("../images/background/IGNITEYLS Website Draft2-01.png") no-repeat center;
   background-size: cover;
@@ -104,5 +109,121 @@
   color: white;
 }
 
+.form-group input {
+  border: 0px solid #444444;
+  height:39px;
+  width:100%;
+  background:url("../images/form/IGNITEYLS Form-13.png") no-repeat right top;
+  color:black;
+  padding-left:4px;
+  font-size:20px;
+}
 
+.formBackground {
+  background: black;
+  width: 50rem;
+}
+
+.formName {
+  background: url("../images/form/IGNITEYLS Form-02.png") no-repeat;
+  background-size: contain;
+  color: transparent;
+  font-size: 2rem;
+  width: 100%;
+}
+
+.formAge {
+  background: url("../images/form/IGNITEYLS Form-15.png") no-repeat;
+  background-size: contain;
+  color: transparent;
+  font-size: 2rem;
+  width: 100%;
+}
+
+.formNRIC {
+  background: url("../images/form/IGNITEYLS Form-03.png") no-repeat;
+  background-size: contain;
+  color: transparent;
+  font-size: 2rem;
+  width: 100%;
+}
+
+.formHP {
+  background: url("../images/form/IGNITEYLS Form-04.png") no-repeat;
+  background-size: contain;
+  color: transparent;
+  font-size: 2rem;
+  width: 100%;
+}
+
+.formEmail {
+  background: url("../images/form/IGNITEYLS Form-05.png") no-repeat;
+  background-size: contain;
+  color: transparent;
+  font-size: 2rem;
+  width: 100%;
+}
+
+.formHouse {
+  background: url("../images/form/IGNITEYLS Form-06.png") no-repeat;
+  background-size: contain;
+  color: transparent;
+  font-size: 2rem;
+  width: 100%;
+}
+
+.formCity {
+  background: url("../images/form/IGNITEYLS Form-07.png") no-repeat;
+  background-size: contain;
+  color: transparent;
+  font-size: 2rem;
+  width: 100%;
+}
+
+.formPostcode {
+  background: url("../images/form/IGNITEYLS Form-08.png") no-repeat;
+  background-size: contain;
+  color: transparent;
+  font-size: 2rem;
+  width: 100%;
+}
+
+.formState {
+  background: url("../images/form/IGNITEYLS Form-09.png") no-repeat;
+  background-size: contain;
+  color: transparent;
+  font-size: 2rem;
+  width: 100%;
+}
+
+.formSchool {
+  background: url("../images/form/IGNITEYLS Form-10.png") no-repeat;
+  background-size: contain;
+  color: transparent;
+  font-size: 2rem;
+  width: 100%;
+}
+
+.formTeach {
+  background: url("../images/form/IGNITEYLS Form-11.png") no-repeat;
+  background-size: contain;
+  color: transparent;
+  font-size: 2rem;
+  width: 100%;
+}
+
+.formRemarks {
+  background: url("../images/form/IGNITEYLS Form-12.png") no-repeat;
+  background-size: contain;
+  color: transparent;
+  font-size: 2rem;
+  width: 100%;
+}
+.form-group button{
+  background : transparent url("../images/form/IGNITEYLS Form-14.png") no-repeat center;
+  background-size: contain;
+  font-size: 4rem;
+  color: transparent;
+  border: none;
+}
 

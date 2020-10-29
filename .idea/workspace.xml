@@ -14,14 +14,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11d1a5ba-b057-4899-acdf-71cc8297de1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/igniteYouth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/form/IGNITEYLS Form-15.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/home.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/styles/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/view/first.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/first.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/view/form-container/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/form-container/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/view/form/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/form/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/view/modal/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/modal/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +57,7 @@
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Users\User\Documents\Work\ignite\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -83,6 +88,7 @@
       <workItem from="1603246982191" duration="69000" />
       <workItem from="1603247084255" duration="3000" />
       <workItem from="1603247103558" duration="64000" />
+      <workItem from="1603681567312" duration="11215000" />
     </task>
     <servers />
   </component>
@@ -109,6 +115,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="698" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1601968595220" />
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1603729293891">
+      <screen x="1920" y="250" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.250.1920.1050@1920.250.1920.1050" timestamp="1603729293891" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1603729293891">
+      <screen x="1920" y="250" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050/1920.250.1920.1050@1920.250.1920.1050" timestamp="1603729293891" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1603729293890">
+      <screen x="1920" y="250" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050/1920.250.1920.1050@1920.250.1920.1050" timestamp="1603729293890" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1603729293891">
+      <screen x="1920" y="250" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050/1920.250.1920.1050@1920.250.1920.1050" timestamp="1603729293891" />
     <state x="144" y="79" key="MergeDialog" timestamp="1603080645071">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -117,10 +139,16 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="358" y="218" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1603080646390" />
-    <state x="266" y="97" width="1130" height="599" key="find.popup" timestamp="1603080205538">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="2696" y="495" key="RollbackChangesDialog" timestamp="1603683446059">
+      <screen x="1920" y="250" width="1920" height="1050" />
+    </state>
+    <state x="2696" y="495" key="RollbackChangesDialog/0.0.1920.1050/1920.250.1920.1050@1920.250.1920.1050" timestamp="1603683446059" />
+    <state x="2275" y="363" width="1507" height="699" key="find.popup" timestamp="1603721081568">
+      <screen x="1920" y="250" width="1920" height="1050" />
     </state>
     <state x="266" y="97" width="1130" height="599" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1603080205538" />
+    <state x="355" y="113" width="1507" height="699" key="find.popup/0.0.1920.1050/1920.250.1920.1050@0.0.1920.1050" timestamp="1603688342139" />
+    <state x="2275" y="363" width="1507" height="699" key="find.popup/0.0.1920.1050/1920.250.1920.1050@1920.250.1920.1050" timestamp="1603721081568" />
     <state x="667" y="295" width="586" height="490" key="find.popup/1920.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1601973251576" />
     <state x="355" y="137" width="1506" height="703" key="find.popup/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1602838396328" />
     <state x="625" y="256" key="run.anything.popup" timestamp="1602741572656">

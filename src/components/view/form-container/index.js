@@ -6,7 +6,6 @@ export class FormContainer extends Component {
     state = { isShown: false };
     showModal = () => {
         this.setState({ isShown: true }, () => {
-            this.closeButton.focus();
         });
         this.toggleScrollLock();
     };
