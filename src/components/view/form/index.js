@@ -113,18 +113,16 @@ export const Form = ({ onSubmit }) => {
                 <input name="entry.951197177"/>
             </div>
             <div className="disclaimer-container">
-                <div className="disclaimer-image">
-                    .
-                </div>
+                <img src={require('../../images/form/disclaimer.png')} className="disclaimerImg"/>
             </div>
             <label className="checkbox-container">
                 <input type="checkbox" required/>
                 <span className="checkmark"></span>
-                <label htmlFor="name" className="formCheckbox">checkbox</label><br/>
+                <img src={require('../../images/form/I Agree Button-23.png')} className="formCheckbox"/>
             </label>
             <div className="form-group text-center">
                 <button type="submit" onsubmit="post();return false;">
-                    Submit
+                    <img src={require('../../images/form/IGNITEYLS Form-14.png')} className="submitButton"/>
                 </button>
             </div>
         </form>

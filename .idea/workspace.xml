@@ -14,61 +14,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11d1a5ba-b057-4899-acdf-71cc8297de1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/mobile/IGNITEYLS Mobile Assets D5-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/mobile/IGNITEYLS Mobile Assets D5-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/mobile/IGNITEYLS Mobile Assets D5-03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/mobile/IGNITEYLS Mobile Assets D5-04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/mobile/IGNITEYLS Mobile Assets D5-05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/mobile/IGNITEYLS Mobile Assets D5-06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/mobile/IGNITEYLS Mobile Assets D5-07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/mobile/IGNITEYLS Mobile Assets D5-08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/mobile/IGNITEYLS Mobile Assets D5-09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/mobile/IGNITEYLS Mobile Assets D5-10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/mobile/IGNITEYLS Mobile Assets D5-11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/mobile/IGNITEYLS Mobile Assets D5-12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/mobile/IGNITEYLS Mobile Assets D5-13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/mobile/IGNITEYLS Mobile Assets D5-14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/mobile/IGNITEYLS Mobile Assets D5-15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/mobile/IGNITEYLS Mobile Assets D5-16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/mobile/IGNITEYLS Mobile Assets D5-17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/mobile/IGNITEYLS Mobile Assets D5-18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/mobile/IGNITEYLS Mobile Assets D5-19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/mobile/IGNITEYLS Mobile Assets D5-28.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/mobile/IGNITEYLS Mobile Assets D5-29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/mobile/IYLSText.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/mobile/andy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/mobile/andyText.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/mobile/comingSoon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/mobile/kenny.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/mobile/kennyText.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/mobile/marianne.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/mobile/marianneText.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/mobile/whatIYLS.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/background/mobile/Website Mobile D5-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/background/mobile/Website Mobile D5-03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/background/mobile/Website Mobile D5-04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/background/mobile/Website Mobile D5-05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/background/mobile/Website Mobile D5-06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/background/mobile/Website Mobile D5-08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/background/mobile/andyBg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/background/mobile/comingSoonBg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/background/mobile/kennyBg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/background/mobile/marrianeBg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/background/mobile/scheduleBg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/background/mobile/section1-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/background/mobile/section1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/background/mobile/sekHaoBg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/background/mobile/whatIYLSBg.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.firebaserc" beforeDir="false" afterPath="$PROJECT_DIR$/.firebaserc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/container.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/container.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/register-home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/register-home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firebase.json" beforeDir="false" afterPath="$PROJECT_DIR$/firebase.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/styles/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/home.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/styles/igniteYouth.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/igniteYouth.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/view/first.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/first.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/view/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/view/form/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/form/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +85,7 @@
       <workItem from="1603940388247" duration="10319000" />
       <workItem from="1603964253921" duration="14418000" />
       <workItem from="1603997191534" duration="9840000" />
-      <workItem from="1604030637383" duration="16084000" />
+      <workItem from="1604030637383" duration="18394000" />
     </task>
     <servers />
   </component>
