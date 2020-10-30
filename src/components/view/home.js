@@ -14,7 +14,6 @@ function Home() {
         }
     };
 
-
     return (
         <Wrapper>
             <div id="content-desktop">
@@ -82,13 +81,13 @@ function Home() {
 
             <div id="content-mobile">
                 <div className="section-1">
-                    <RB.Row className="igniteLogo">
-                        <img src={require('../images/assets/mainMenu/igniteMyLogo.png')} />
-                    </RB.Row>
+                    {/*<RB.Row className="igniteLogo">*/}
+                    {/*    <img src={require('../images/assets/mainMenu/igniteMyLogo.png')} />*/}
+                    {/*</RB.Row>*/}
                     <div className="titleContainer text-center">
-                        <img src={require('../images/assets/mainMenu/titleLeft.png')}/>
+                        <img src={require('../images/assets/mobile/mainMenuTitle.png')}/>
                         <br/>
-                        <img src={require('../images/assets/mainMenu/titleRight.png')}/>
+                        <img src={require('../images/assets/mobile/timeTitle.png')}/>
                     </div>
                     <RegisterHome />
                 </div>
@@ -111,7 +110,7 @@ function Home() {
                     </RB.Row>
                 </div>
 
-                <div className="section-3-1 text-center">
+                <div className="section-3-1 text-right">
                     <img src={require('../images/assets/mobile/comingSoon.png')}/>
                 </div>
 

@@ -4,7 +4,6 @@ import {Switch, Route, withRouter, BrowserRouter as Router} from "react-router-d
 import { TransitionGroup, CSSTransition } from "react-transition-group";
 import Home from "./view/home";
 import First from "./view/first";
-import ScrollToTop from "../react/scrollToTop";
 
 function Container({ location }) {
     return (
@@ -15,12 +14,10 @@ function Container({ location }) {
                     timeout={{ enter: 300, exit: 300 }}
                     classNames={'fade'}
                 >
-                    <ScrollToTop>
-                        <Switch location={location}>
-                            <Route exact path="/" component={Home} />
-                            <Route path="/iyls-info" component={First} />
-                        </Switch>
-                    </ScrollToTop>
+                    <Switch location={location}>
+                        <Route exact path="/" component={Home} />
+                        <Route path="/iyls-info" component={First} />
+                    </Switch>
                 </CSSTransition>
             </TransitionGroup>
         </Wrapper>

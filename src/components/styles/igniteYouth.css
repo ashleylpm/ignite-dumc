@@ -111,10 +111,10 @@
 
     .speakers-andy .leftSpeaker img{
         bottom: 0;
-        width: 100%;
+        width: 110%;
         height: auto;
         padding-left: 4vw;
-        margin-bottom: 5vh;
+        margin-bottom: 2vh;
     }
 
     .speakers-andy .rightSpeaker img{
@@ -133,10 +133,10 @@
 
     .speakers-kenny .leftSpeaker img{
         bottom: 0;
-        width: 100%;
+        width: 115%;
         height: auto;
         padding-left: 4vw;
-        margin-bottom: 5vh;
+        margin-bottom: 2vh;
     }
 
     .speakers-kenny .rightSpeaker img{
@@ -154,10 +154,10 @@
 
     .speakers-marriane .leftSpeaker img{
         padding-top: 5vh;
-        width: 100%;
+        width: 120%;
         height: auto;
         padding-left: 4vw;
-        margin-bottom: 5vh;
+        margin-bottom: 2vh;
     }
 
     .speakers-marriane .rightSpeaker img{
@@ -167,6 +167,7 @@
         width: 100%;
         height: auto;
     }
+
     .specialPerformance {
         background: black url("../images/background/iyls/section6.png") no-repeat center;
         background-size: cover;
@@ -240,7 +241,7 @@
     .scheduleContainer {
         background: black url("../images/background/iyls/section2.png") no-repeat center;
         background-size: cover;
-        height: 100vh;
+        height: 105vh;
         align-items: center;
     }
 
@@ -297,76 +298,92 @@
     }
 
     .speakers-andy {
-        background: #000000 url("../images/background/iyls/section4-1.png") no-repeat center;
+        background: #000000 url("../images/background/mobile/andyBg.png") no-repeat center;
         background-size: cover;
-        height: 100vh;
+        padding-top: 15vh;
+    }
+
+    .topSpeaker{
         position: relative;
+    }
+
+    .speakers-andy .leftSpeaker img{
+        bottom: 0;
+        width: 110%;
+        padding-left: 4vw;
+        margin-bottom: 5vh;
+    }
+
+    .speakers-andy .rightSpeaker img{
+        position:absolute;
+        bottom:0;
+        right: 0;
+        width: 80%;
+        height: auto;
     }
 
     .speakers-kenny {
-        background: #000000 url("../images/background/iyls/section4-2.png") no-repeat center;
+        background: #000000 url("../images/background/mobile/kennyBg.png") no-repeat center;
         background-size: cover;
-        height: 80vh;
-        position: relative;
+        padding-top: 15vh;
+    }
+
+    .speakers-kenny .leftSpeaker img{
+        bottom: 0;
+        width: 130%;
+        height: auto;
+        padding-left: 4vw;
+        margin-bottom: 5vh;
+    }
+
+    .speakers-kenny .rightSpeaker img{
+        position:absolute;
+        bottom:0;
+        left: 0;
+        width: 100%;
+        height: auto;
     }
 
     .speakers-marriane {
-        background: #000000 url("../images/background/iyls/section4-3.png") no-repeat center;
+        background: #000000 url("../images/background/mobile/marrianeBg.png") no-repeat center;
         background-size: cover;
-        height: 100vh;
-        position: relative;
+        padding-top: 15vh;
     }
 
-    .topSpeaker {
-        position: absolute;
+    .speakers-marriane .leftSpeaker img{
+        padding-top: 5vh;
+        width: 130%;
+        height: auto;
+        padding-left: 4vw;
+        margin-bottom: 5vh;
+    }
+
+    .speakers-marriane .rightSpeaker img{
+        position:absolute;
+        bottom:0;
         left: 0;
-        bottom: 0;
-    }
-
-    .speakers-andy .leftSpeaker img, .speakers-andy .rightSpeaker img {
-        bottom: 0;
-        width: 75%;
-        height: auto;
-    }
-
-    .speakers-kenny .leftSpeaker img, .speakers-kenny .rightSpeaker img {
-        bottom: 0;
         width: 100%;
         height: auto;
     }
 
-    .speakers-marriane .leftSpeaker img, .speakers-marriane .rightSpeaker img {
-        bottom: 0;
-        width: 100%;
-        height: auto;
-    }
-
-    .speakers-kenny .leftSpeaker, .speakers-marriane .leftSpeaker {
-        margin-left: 4vw;
-    }
-
-    .specialPeformance {
+    .specialPerformance {
         background: black url("../images/background/iyls/section6.png") no-repeat center;
         background-size: cover;
-        height: 150vh;
+        height: 100vh;
         color: white;
         position: relative;
     }
 
-    .specialPeformance .specialTitle {
+    .specialPerformance .specialTitle {
         margin-top: 5vh;
         width: 50%;
         height: auto;
     }
 
-    .absolute-title {
-        position: absolute;
-        bottom: 0;
-    }
-
-    .specialPeformance .specialName {
-        bottom: 0;
-        width: 75%;
+    .specialPerformance .specialName {
+        margin-top: 30vh;
+        margin-left: 10vh;
+        width: 50%;
         height: auto;
     }
 

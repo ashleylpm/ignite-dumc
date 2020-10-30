@@ -6,7 +6,7 @@ import './styles/home.css';
 function Header() {
     return (
         <div className="tellMeMoreBtn">
-            <Link to="/iyls-info" className="container">
+            <Link to="/iyls-info">
                 <img src={require('./images/buttons/buttons-full/button4.png')}/>
             </Link>
         </div>

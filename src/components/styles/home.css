@@ -64,8 +64,11 @@
     width: 70%;
   }
 
+  .section-3 .tellMeMoreBtn {
+    margin: 10% auto;
+  }
+
   .section-3 .tellMeMoreBtn img {
-    margin-top: 5vh;
     width: 50%;
   }
 
@@ -78,6 +81,7 @@
 
   .section-3-1 img{
     width: 50%;
+    margin-right: 10vw;
   }
 
   .section-4 {
@@ -237,7 +241,7 @@
   }
 
   .form-group button img {
-    width: 50%;
+    width: 40%;
   }
 
   .disclaimer-container {
@@ -411,8 +415,7 @@
 
   .youtube-video {
     margin-top: 5rem;
-    width: 50%;
-    height: 60vh;
+    margin-bottom: 5rem;
   }
 
   .section-3 {
@@ -440,16 +443,11 @@
 
   .tellMeMoreBtn {
     width: 100%;
-    bottom: 20;
-    position: absolute;
   }
 
   .tellMeMoreBtn img {
-    width: 20vw;
-    height: auto;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    width: 35%;
+    margin-bottom: 15vh;
   }
 
   .column-2 {
@@ -463,8 +461,7 @@
   .section-4 {
     background: black url("../images/background/mainMenu/section4.png") no-repeat center;
     background-size: cover;
-    height: 63.5vh;
-    color: white;
+    height: 60vh;
     position: relative;
   }
 
@@ -476,7 +473,7 @@
 
   .section-4 .leftTitle img {
     bottom: 0;
-    width: 70%;
+    width: 35rem;
     height: auto;
   }
 
@@ -519,11 +516,7 @@
     margin-bottom: 1rem;
   }
 
-  .disclaimer-image {
-    background: url("../images/form/disclaimer.png") no-repeat;
-    background-size: contain;
-    color: transparent;
-    font-size: 10rem;
+  .disclaimerImg {
     width: 100%;
     -webkit-touch-callout: none; /* iOS Safari */
     -webkit-user-select: none; /* Safari */
@@ -596,11 +589,6 @@
   }
 
   .formCheckbox {
-    background: url("../images/form/I Agree Button-23.png") no-repeat;
-    background-size: contain;
-    color: transparent;
-    font-size: 1.5rem;
-    margin-left: 0.5rem;
     width: 100%;
   }
 
@@ -743,11 +731,13 @@
   }
 
   .form-group button {
-    background: transparent url("../images/form/IGNITEYLS Form-14.png") no-repeat center;
-    background-size: contain;
-    font-size: 4rem;
-    color: transparent;
-    border: none;
+    width: 100%;
+    background: transparent;
+    border: transparent;
+  }
+
+  .form-group button img{
+    width: 30%;
   }
 
 }
