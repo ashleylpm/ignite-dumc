@@ -4,13 +4,11 @@ import { Link } from "react-router-dom";
 
 function RegisterHome() {
     return (
-        <Wrapper>
-            <div className="registerHomeBtn">
-                <Link to="/iyls-info" className="container">
-                    <img src={require('./images/buttons/buttons-full/button1.png')}/>
-                </Link>
-            </div>
-        </Wrapper>
+        <div className="registerHomeBtn text-center">
+            <Link to="/iyls-info" className="container">
+                <img src={require('./images/buttons/buttons-full/button1.png')}/>
+            </Link>
+        </div>
     );
 }
 

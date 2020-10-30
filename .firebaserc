@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "dumc-ignitemy"
+    "default": "dumc-ignitemy",
+    "staging": "dumc-ignitemy"
   }
 }

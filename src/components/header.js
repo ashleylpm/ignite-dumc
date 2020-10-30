@@ -1,16 +1,15 @@
 import React from "react";
 import styled from "styled-components";
 import { Link } from "react-router-dom";
+import './styles/home.css';
 
 function Header() {
     return (
-        <Wrapper>
-            <div className="tellMeMoreBtn">
-                <Link to="/iyls-info" className="container">
-                    <img src={require('./images/buttons/buttons-full/button4.png')}/>
-                </Link>
-            </div>
-        </Wrapper>
+        <div className="tellMeMoreBtn">
+            <Link to="/iyls-info" className="container">
+                <img src={require('./images/buttons/buttons-full/button4.png')}/>
+            </Link>
+        </div>
     );
 }
 
