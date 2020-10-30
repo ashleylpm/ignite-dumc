@@ -8,11 +8,25 @@ import styled from "styled-components";
 import * as RB from "react-bootstrap";
 
 function First() {
+    function goBack() {
+        window.history.back();
+    }
+
     return (
         <Wrapper>
             <div>
-                <div className="igniteYouth text-center">
-                    <img src={require('../images/assets/iyls/columnIYLS.png')}/>
+                <div className="igniteYouth">
+                    <RB.Row className="igniteLogo">
+                        <img src={require('../images/assets/iyls/igniteMyLogo.png')} />
+                    </RB.Row>
+                    <RB.Row className="igniteTitle text-center">
+                        <img src={require('../images/assets/iyls/columnIYLS.png')}/>
+                    </RB.Row>
+                </div>
+
+                <div className="attention text-center">
+                    <img src={require('../images/assets/iyls/attentionTitle.png')} className="attentionTitle"/><br/>
+                    <img src={require('../images/assets/iyls/attentionText.png')} className="attentionText"/>
                 </div>
 
                 <div className="scheduleContainer text-center">
@@ -24,18 +38,52 @@ function First() {
                             <img src={require('../images/assets/iyls/scheduleTime.png')} className="scheduleTime"/> <br/>
                             <FormContainer /><br/>
                             <img src={require('../images/assets/iyls/physicalText.png')}  className="scheduleOnline"/><br/>
-                            <FormContainer2 />
+                            <FormContainer2 /><br/>
+                            <img src={require('../images/assets/iyls/registrationClose.png')}  className="registrationCloses"/><br/>
                         </RB.Col>
                     </RB.Row>
                 </div>
+
+
 
                 <div className="whatIsIgnite text-center">
                     <img src={require('../images/assets/iyls/whatIgnite.png')} className="whatIsIgniteTitle"/><br/>
                     <img src={require('../images/assets/iyls/igniteText.png')} className="whatIsIgniteText"/>
                 </div>
 
-                {/*<div className="speakers text-center">*/}
-                {/*</div>*/}
+                <div className="speakers-andy text-center">
+                    <RB.Row className="topSpeaker">
+                        <RB.Col className="leftSpeaker">
+                            <img src={require('../images/assets/iyls/andyText.png')}/>
+                        </RB.Col>
+                        <RB.Col className="rightSpeaker">
+                            <img src={require('../images/assets/iyls/andyImage.png')}/>
+                        </RB.Col>
+                    </RB.Row>
+                </div>
+
+                <div className="speakers-kenny text-center">
+                    <RB.Row className="topSpeaker">
+                        <RB.Col className="leftSpeaker">
+                            <img src={require('../images/assets/iyls/kennyText.png')}/>
+                        </RB.Col>
+                        <RB.Col className="rightSpeaker">
+                            <img src={require('../images/assets/iyls/kennyImage.png')}/>
+                        </RB.Col>
+                    </RB.Row>
+                </div>
+
+                <div className="speakers-marriane text-center">
+                    <RB.Row className="topSpeaker">
+                        <RB.Col className="leftSpeaker">
+                            <img src={require('../images/assets/iyls/marrianeText.png')}/>
+                        </RB.Col>
+                        <RB.Col className="rightSpeaker">
+                            <img src={require('../images/assets/iyls/marrianeImage.png')}/>
+                        </RB.Col>
+                    </RB.Row>
+                </div>
+
 
                 <a href="https://instagram.com/ignitemy______?igshid=jkcmbphuplgl" target="_blank" >
                     <div className="section-4 text-center">
@@ -50,8 +98,12 @@ function First() {
                     </div>
                 </a>
 
-                {/*<div className="specialPeformance text-center">*/}
-                {/*</div>*/}
+                <div className="specialPeformance text-center">
+                    <img src={require('../images/assets/iyls/specialPeformance.png')} className="specialTitle"/>
+                    <div className="absolute-title">
+                        <img src={require('../images/assets/iyls/sekHao.png')} className="specialName"/>
+                    </div>
+                </div>
 
                 {/*<div className="countdownIgnite text-center">*/}
                 {/*</div>*/}
