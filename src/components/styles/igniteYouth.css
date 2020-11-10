@@ -59,10 +59,11 @@
         padding-top: 10vh;
         width: 50%;
         height: auto;
+        display: block;
+        margin: auto;
     }
 
     .attendInPerson {
-        margin-top: 5vh;
         width: 50%;
         height: auto;
         cursor: pointer;
@@ -73,6 +74,8 @@
         width: 50%;
         height: auto;
         cursor: pointer;
+        display: block;
+        margin: auto;
     }
 
     .registrationCloses {
@@ -260,6 +263,13 @@
     }
 
     .attendInPerson {
+        margin-top: 5vh;
+        width: 50%;
+        height: auto;
+        cursor: pointer;
+    }
+
+    .scheduleTime {
         margin-top: 5vh;
         width: 50%;
         height: auto;
