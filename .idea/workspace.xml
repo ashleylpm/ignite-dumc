@@ -16,7 +16,9 @@
     <list default="true" id="11d1a5ba-b057-4899-acdf-71cc8297de1f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/styles/igniteYouth.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/igniteYouth.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/images/assets/iyls/registrationClose.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/images/assets/iyls/registrationClose.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/images/assets/mobile/IGNITEYLS Mobile Assets D5-18.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/images/assets/mobile/IGNITEYLS Mobile Assets D5-18.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/images/assets/mobile/IGNITEYLS Mobile Assets D6-18.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/view/first.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/first.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,6 +93,7 @@
       <workItem from="1604117626305" duration="7452000" />
       <workItem from="1605019190544" duration="1473000" />
       <workItem from="1605025234336" duration="1160000" />
+      <workItem from="1605363183396" duration="334000" />
     </task>
     <servers />
   </component>
