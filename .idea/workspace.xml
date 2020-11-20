@@ -14,31 +14,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11d1a5ba-b057-4899-acdf-71cc8297de1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/rally/desktop/Assets/IGNITEYLS Website Assets D5-30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/rally/desktop/Assets/IGNITEYLS Website Assets D5-31.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/rally/desktop/Assets/IGNITEYLS Website Assets D5-32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/rally/desktop/Assets/IGNITEYLS Website Assets D5-33.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/rally/desktop/Assets/IGNITEYLS Website Assets D5-34.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/rally/desktop/Background/IGNITEYLS Website D6-17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/rally/desktop/Background/IGNITEYLS Website D6-18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/rally/desktop/Background/IGNITEYLS Website D6-19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/rally/desktop/Ref/IGNITEYLS Website D6-17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/rally/desktop/Ref/IGNITEYLS Website D6-18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/rally/desktop/Ref/IGNITEYLS Website D6-19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/rally/desktop/Ref/IGNITEYLS Website D6-20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/rally/desktop/Ref/IGNITEYLS Website D6-21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/rally/mobile/Assets/IGNITEYLS Mobile Assets D6-31.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/rally/mobile/Assets/IGNITEYLS Mobile Assets D6-32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/rally/mobile/Assets/IGNITEYLS Mobile Assets D6-33.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/rally/mobile/Assets/IGNITEYLS Mobile Assets D6-34.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/rally/mobile/Assets/IGNITEYLS Mobile Assets D6-35.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/rally/mobile/Ref/Website Mobile D5-15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/rally/mobile/Ref/Website Mobile D5-16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/assets/rally/mobile/Ref/Website Mobile D5-17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/view/rally.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/assets/rally/desktop/assets5-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/assets/rally/desktop/assets5-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/background/rally/background-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/background/rally/background-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/background/rally/background-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/styles/rally.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/container.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/container.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/images/assets/rally/desktop/Assets/IGNITEYLS Website Assets D5-30.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/images/assets/rally/desktop/assets1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/images/assets/rally/desktop/Assets/IGNITEYLS Website Assets D5-31.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/images/assets/rally/desktop/assets2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/images/assets/rally/desktop/Assets/IGNITEYLS Website Assets D5-32.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/images/assets/rally/desktop/assets3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/images/assets/rally/desktop/Assets/IGNITEYLS Website Assets D5-33.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/images/assets/rally/desktop/assets4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/images/assets/rally/desktop/Assets/IGNITEYLS Website Assets D5-34.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/images/assets/rally/desktop/assets5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/images/assets/rally/desktop/Background/IGNITEYLS Website D6-17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/images/assets/rally/desktop/Background/IGNITEYLS Website D6-18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/images/assets/rally/desktop/Background/IGNITEYLS Website D6-19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/view/rally.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/rally.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +105,7 @@
       <workItem from="1605025234336" duration="1160000" />
       <workItem from="1605363183396" duration="830000" />
       <workItem from="1605666913515" duration="599000" />
-      <workItem from="1605847954216" duration="436000" />
+      <workItem from="1605847954216" duration="3419000" />
     </task>
     <servers />
   </component>

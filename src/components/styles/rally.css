@@ -1,0 +1,110 @@
+@media only screen and (min-width: 1200px) {
+    #contentIYLS-desktop {
+        display: block;
+    }
+
+    #contentIYLS-mobile {
+        display: none;
+    }
+
+    .igniteRally {
+        background: black url("../images/background/rally/background-1.png") no-repeat center;
+        background-size: cover;
+        height: 100vh;
+        align-items: center;
+    }
+
+    .igniteRally .rallyLogo img {
+        margin-left: 5vw;
+        margin-top: 3vw;
+        width: 20%;
+        height: auto;
+    }
+
+    .igniteRally .rallyTitle img {
+        margin-top: 20vh;
+        margin-left: 30%;
+        width: 40%;
+        height: auto;
+    }
+
+    .rallySchedule {
+        background: black url("../images/background/rally/background-2.png") no-repeat center;
+        background-size: cover;
+        height: 110vh;
+        align-items: center;
+    }
+
+    .rallySchedule .streamingTime img{
+        margin-top: 15vh;
+        margin-left: 25%;
+        width: 50%;
+        height: auto;
+    }
+
+    .rallySchedule .whatsHappening img{
+        margin-top: 10vh;
+        margin-left: 30%;
+        width: 40%;
+        height: auto;
+    }
+
+    .rallyInfo {
+        background: black url("../images/background/rally/background-3.png") no-repeat center;
+        background-size: cover;
+        height: 120vh;
+        align-items: center;
+    }
+
+    .rallyInfo .topText img {
+        margin-top: 15vh;
+        width: 100%;
+        height: auto;
+    }
+
+    .rallyInfo .middleImage img {
+        margin-top: 10vh;
+        margin-left: 25%;
+        width: 50%;
+        height: auto;
+    }
+
+    .rallyInfo .bottomText img {
+        margin-top: 10vh;
+        width: 100%;
+        height: auto;
+    }
+
+    .speakers {
+        background: black;
+    }
+
+    .speakers img {
+        margin-left: 30vh;
+        width: 70%;
+    }
+
+    .streamingLive {
+        background: black url("../images/background/rally/background-2.png") no-repeat center;
+        background-size: cover;
+        height: 110vh;
+        align-items: center;
+    }
+
+    .streamingLive .streamingTime img{
+        margin-top: 15vh;
+        margin-left: 25%;
+        width: 50%;
+        height: auto;
+    }
+}
+
+@media only screen and (max-width: 1199px) {
+    #contentIYLS-desktop {
+        display: none;
+    }
+
+    #contentIYLS-mobile {
+        display: block;
+    }
+}
