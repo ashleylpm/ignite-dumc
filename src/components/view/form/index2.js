@@ -1,6 +1,6 @@
 import React from 'react';
 
-export const Form2 = () => {
+export const Form2 = ({onSubmit}) => {
 
     let name = React.createRef();
     let age = React.createRef();
@@ -61,7 +61,8 @@ export const Form2 = () => {
         <form
             action="https://docs.google.com/forms/u/0/d/e/1FAIpQLScBBZVsWryNH8ashxCe4VURIqF7UuCkunc7rPh65tuObsnLBw/formResponse"
             method="POST"
-            target="_blank">
+            target="_blank"
+            onSubmit={onSubmit}>
             <img src={require('../../images/form/registration.png')} className="registrationTitle"/>
             <div className="form-group">
                 <label htmlFor="name" className="formName">NAME (AS PER NRIC)</label><br/>

@@ -107,4 +107,116 @@
     #contentIYLS-mobile {
         display: block;
     }
+
+    .igniteRally {
+        background: black url("../images/background/rally/background-1.png") no-repeat center;
+        background-size: cover;
+        padding-bottom: 10vh;
+    }
+
+    .igniteRally .rallyLogo img {
+        margin-left: 10vw;
+        margin-top: 5vw;
+        width: 20%;
+        height: auto;
+    }
+
+    .igniteRally .rallyTitle img {
+        margin-top: 10vh;
+        margin-left: 30%;
+        width: 40%;
+        height: auto;
+    }
+
+    .rallySchedule {
+        background: black url("../images/background/rally/background-2.png") no-repeat center;
+        background-size: cover;
+        padding-bottom: 5vh;
+    }
+
+    .rallySchedule .streamingTime img{
+        margin-top: 5vh;
+        margin-left: 25%;
+        width: 50%;
+        height: auto;
+    }
+
+    .rallySchedule .whatsHappening img{
+        margin-top: 5vh;
+        margin-left: 30%;
+        width: 40%;
+        height: auto;
+    }
+
+    .rallyInfo {
+        background: black url("../images/background/rally/background-3.png") no-repeat center;
+        background-size: cover;
+        padding-bottom: 5vh;
+        align-items: center;
+    }
+
+    .rallyInfo .topText img {
+        margin-top: 5vh;
+        width: 100%;
+        height: auto;
+    }
+
+    .rallyInfo .middleImage img {
+        margin-top: 2vh;
+        margin-left: 25%;
+        width: 50%;
+        height: auto;
+    }
+
+    .rallyInfo .bottomText img {
+        margin-top: 2vh;
+        width: 100%;
+        height: auto;
+    }
+
+    .speakers {
+        background: black;
+    }
+
+    .speakers img {
+        padding-top: 2vh;
+        margin-left: 10vw;
+        width: 80%;
+    }
+
+    .speakers-andy {
+        background: #000000 url("../images/background/mobile/andyBg.png") no-repeat center;
+        background-size: cover;
+        padding-top: 10vh;
+    }
+
+    .speakers-andy .leftSpeaker img{
+        bottom: 0;
+        width: 110%;
+        height: auto;
+        padding-left: 4vw;
+        margin-bottom: 2vh;
+    }
+
+    .speakers-andy .rightSpeaker img{
+        position:absolute;
+        bottom:0;
+        left: 0;
+        width: 100%;
+        height: auto;
+    }
+
+    .streamingLive {
+        background: black url("../images/background/rally/background-2.png") no-repeat center;
+        background-size: cover;
+        padding-bottom: 5vh;
+        align-items: center;
+    }
+
+    .streamingLive .streamingTime img{
+        margin-top: 5vh;
+        margin-left: 25%;
+        width: 50%;
+        height: auto;
+    }
 }
