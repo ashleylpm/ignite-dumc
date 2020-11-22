@@ -75,11 +75,11 @@
         height: auto;
     }
 
-    .speakers {
+    .speakersRally {
         background: black;
     }
 
-    .speakers img {
+    .speakersRally img {
         margin-left: 30vh;
         width: 70%;
     }
@@ -178,7 +178,7 @@
         background: black;
     }
 
-    .speakers img {
+    .speakersRally img {
         padding-top: 2vh;
         margin-left: 10vw;
         width: 80%;

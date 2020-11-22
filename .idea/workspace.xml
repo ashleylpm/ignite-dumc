@@ -14,9 +14,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11d1a5ba-b057-4899-acdf-71cc8297de1f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/firebase-debug.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/styles/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/styles/rally.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/rally.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/view/first.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/first.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/view/form/index2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/form/index2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/view/rally.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/rally.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +97,8 @@
       <workItem from="1605025234336" duration="1160000" />
       <workItem from="1605363183396" duration="830000" />
       <workItem from="1605666913515" duration="599000" />
-      <workItem from="1605847954216" duration="8347000" />
+      <workItem from="1605847954216" duration="8968000" />
+      <workItem from="1606058497131" duration="4988000" />
     </task>
     <servers />
   </component>

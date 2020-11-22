@@ -498,6 +498,7 @@
 
   .speakers {
     padding-top: 5rem;
+    background: black;
   }
 
   .speakerName img {

@@ -40,7 +40,7 @@ function Rally() {
                     </div>
                 </div>
 
-                <div className="speakers">
+                <div className="speakersRally">
                     <img src={require('../images/assets/mainMenu/speakers.png')}/>
                 </div>
 
@@ -93,7 +93,7 @@ function Rally() {
                     </div>
                 </div>
 
-                <div className="speakers">
+                <div className="speakersRally">
                     <img src={require('../images/assets/mainMenu/speakers.png')}/>
                 </div>
 

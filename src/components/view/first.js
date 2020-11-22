@@ -24,10 +24,10 @@ function First() {
                     </RB.Row>
                 </div>
 
-                <div className="attention text-center">
-                    <img src={require('../images/assets/iyls/attentionTitle.png')} className="attentionTitle"/><br/>
-                    <img src={require('../images/assets/iyls/attentionText.png')} className="attentionText"/>
-                </div>
+                {/*<div className="attention text-center">*/}
+                {/*    <img src={require('../images/assets/iyls/attentionTitle.png')} className="attentionTitle"/><br/>*/}
+                {/*    <img src={require('../images/assets/iyls/attentionText.png')} className="attentionText"/>*/}
+                {/*</div>*/}
 
                 <div className="scheduleContainer text-center">
                     <RB.Row className="scheduleRow">
@@ -38,7 +38,7 @@ function First() {
                             <img src={require('../images/assets/iyls/scheduleTime2.png')}  className="scheduleTime"/><br/>
                             <img src={require('../images/assets/iyls/physicalText.png')}  className="scheduleOnline"/><br/>
                             <FormContainer2 /><br/>
-                            <img src={require('../images/assets/iyls/registrationClose.png')}  className="registrationCloses"/><br/>
+                            {/*<img src={require('../images/assets/iyls/registrationClose.png')}  className="registrationCloses"/><br/>*/}
                         </RB.Col>
                     </RB.Row>
                 </div>
@@ -116,16 +116,16 @@ function First() {
                     <img src={require('../images/assets/iyls/columnIYLS.png')}/>
                 </div>
 
-                <div className="attention text-center">
-                    <img src={require('../images/assets/iyls/attentionTitle.png')} className="attentionTitle"/><br/>
-                    <img src={require('../images/assets/mobile/attenttionText.png')} className="attentionText"/>
-                </div>
+                {/*<div className="attention text-center">*/}
+                {/*    <img src={require('../images/assets/iyls/attentionTitle.png')} className="attentionTitle"/><br/>*/}
+                {/*    <img src={require('../images/assets/mobile/attenttionText.png')} className="attentionText"/>*/}
+                {/*</div>*/}
 
                 <div className="scheduleContainer text-center">
                     <img src={require('../images/assets/iyls/scheduleTime2.png')}  className="scheduleTime"/>
                     <img src={require('../images/assets/iyls/physicalText.png')}  className="scheduleOnline"/>
                     <FormContainer2 /><br/>
-                    <img src={require('../images/assets/iyls/registrationClose.png')}  className="registrationCloses"/>
+                    {/*<img src={require('../images/assets/iyls/registrationClose.png')}  className="registrationCloses"/>*/}
                     <img src={require('../images/assets/iyls/schedule.png')} className="scheduleTime"/>
                 </div>
 

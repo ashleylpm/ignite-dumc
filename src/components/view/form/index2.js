@@ -85,23 +85,23 @@ export const Form2 = ({onSubmit}) => {
                 <label htmlFor="email" className="formEmail">EMAIL</label><br/>
                 <input name="entry.1655592159" id="input-five" onKeyUp={email} ref={email} required type="email"/>
             </div>
-            <img src={require('../../images/form/participantKit.png')} className="participantKit"/>
-            <div className="form-group">
-                <label htmlFor="name" className="formHouse">HOUSE UNIT NUMBER</label><br/>
-                <input name="entry.1437269770" id="input-six" onKeyUp={address} ref={address} required />
-            </div>
-            <div className="form-group">
-                <label htmlFor="name" className="formCity">CITY</label><br/>
-                <input name="entry.84102190" id="input-seven" onKeyUp={city} ref={city} required/>
-            </div>
-            <div className="form-group">
-                <label htmlFor="name" className="formPostcode">POSTCODE</label><br/>
-                <input name="entry.1929556469" id="input-eight" onKeyUp={postcode} ref={postcode} required/>
-            </div>
-            <div className="form-group">
-                <label htmlFor="name" className="formState">STATE</label><br/>
-                <input name="entry.1820238470" id="input-nine" onKeyUp={state} ref={state} required/>
-            </div>
+            <img src={require('../../images/form/participantKit2.png')} className="participantKit"/>
+            {/*<div className="form-group">*/}
+            {/*    <label htmlFor="name" className="formHouse">HOUSE UNIT NUMBER</label><br/>*/}
+            {/*    <input name="entry.1437269770" id="input-six" onKeyUp={address} ref={address} required />*/}
+            {/*</div>*/}
+            {/*<div className="form-group">*/}
+            {/*    <label htmlFor="name" className="formCity">CITY</label><br/>*/}
+            {/*    <input name="entry.84102190" id="input-seven" onKeyUp={city} ref={city} required/>*/}
+            {/*</div>*/}
+            {/*<div className="form-group">*/}
+            {/*    <label htmlFor="name" className="formPostcode">POSTCODE</label><br/>*/}
+            {/*    <input name="entry.1929556469" id="input-eight" onKeyUp={postcode} ref={postcode} required/>*/}
+            {/*</div>*/}
+            {/*<div className="form-group">*/}
+            {/*    <label htmlFor="name" className="formState">STATE</label><br/>*/}
+            {/*    <input name="entry.1820238470" id="input-nine" onKeyUp={state} ref={state} required/>*/}
+            {/*</div>*/}
             <div className="form-group">
                 <label htmlFor="name" className="formSchool">WHICH SCHOOL ARE YOU FROM?</label><br/>
                 <input name="entry.625339323" id="input-ten" onKeyUp={school} ref={school} required/>
