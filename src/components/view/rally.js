@@ -4,6 +4,7 @@ import '../styles/igniteYouth.css';
 import * as RB from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import styled from "styled-components";
+import HomePage from "../home-button";
 
 function Rally() {
     return (
@@ -11,9 +12,7 @@ function Rally() {
 
             <div id="contentIYLS-desktop">
                 <div className="igniteRally">
-                    <RB.Row className="rallyLogo">
-                        <img src={require('../images/assets/iyls/igniteMyLogo.png')} />
-                    </RB.Row>
+                    <HomePage />
                     <RB.Row className="rallyTitle text-center">
                         <img src={require('../images/assets/rally/desktop/assets1.png')}/>
                     </RB.Row>

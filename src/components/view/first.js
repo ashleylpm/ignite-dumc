@@ -2,7 +2,7 @@ import React from "react";
 import '../styles/igniteYouth.css';
 import '../styles/home.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { FormContainer } from '../view/form-container/index';
+import HomePage from "../home-button";
 import { FormContainer2} from "./form-container/index2";
 import styled from "styled-components";
 import * as RB from "react-bootstrap";
@@ -16,9 +16,7 @@ function First() {
         <Wrapper>
             <div id="contentIYLS-desktop">
                 <div className="igniteYouth">
-                    <RB.Row className="igniteLogo">
-                        <img src={require('../images/assets/iyls/igniteMyLogo.png')} />
-                    </RB.Row>
+                    <HomePage />
                     <RB.Row className="igniteTitle text-center">
                         <img src={require('../images/assets/iyls/columnIYLS.png')}/>
                     </RB.Row>

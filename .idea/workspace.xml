@@ -14,13 +14,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11d1a5ba-b057-4899-acdf-71cc8297de1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/firebase-debug.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/home-button.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/styles/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/home.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/styles/rally.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/rally.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/view/first.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/first.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/view/form/index2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/form/index2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/view/rally.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/rally.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,6 +95,7 @@
       <workItem from="1605666913515" duration="599000" />
       <workItem from="1605847954216" duration="8968000" />
       <workItem from="1606058497131" duration="4988000" />
+      <workItem from="1606474734553" duration="2055000" />
     </task>
     <servers />
   </component>
@@ -149,9 +146,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="358" y="218" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1603080646390" />
-    <state x="2696" y="495" key="RollbackChangesDialog" timestamp="1603683446059">
-      <screen x="1920" y="250" width="1920" height="1050" />
+    <state x="776" y="245" key="RollbackChangesDialog" timestamp="1606477339617">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state x="776" y="245" key="RollbackChangesDialog/0.0.1920.1050/1920.250.1920.1050@0.0.1920.1050" timestamp="1606477339617" />
     <state x="2696" y="495" key="RollbackChangesDialog/0.0.1920.1050/1920.250.1920.1050@1920.250.1920.1050" timestamp="1603683446059" />
     <state x="355" y="113" width="1507" height="699" key="find.popup" timestamp="1604137193924">
       <screen x="0" y="0" width="1920" height="1050" />
