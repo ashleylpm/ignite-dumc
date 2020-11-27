@@ -1,0 +1,169 @@
+@media only screen and (max-width: 1199px) {
+    .igniteYouth {
+        background: black url("../../images/background/mobile/youth/section1-2.png") no-repeat center;
+        background-size: cover;
+        height: 45vh;
+    }
+
+    .igniteYouth .igniteLogo img{
+        padding-top: 3vh;
+        padding-left: 1vw;
+        width: 30%;
+    }
+
+    .igniteYouth img {
+        padding-top: 8vh;
+        width: 80%;
+        margin: auto;
+    }
+
+    .scheduleContainer {
+        background: black url("../../images/background/mobile/youth/scheduleBg.png") no-repeat center;
+        background-size: cover;
+        padding-bottom: 5vh;
+        padding-left: 2vh
+    }
+
+    .scheduleRow {
+        padding-top: 10vh;
+    }
+
+    .scheduleContainer .leftSchedule img {
+        width: 80%;
+        height: auto;
+    }
+
+    .scheduleTime {
+        width: 80%;
+        height: auto;
+        display: block;
+        margin: auto;
+    }
+
+    .attendInPerson {
+        width: 80%;
+        height: auto;
+        cursor: pointer;
+    }
+
+    .scheduleOnline {
+        margin-top: 5vh;
+        width: 80%;
+        height: auto;
+        cursor: pointer;
+        display: block;
+        margin: auto;
+    }
+
+    .registrationCloses {
+        width: 40%;
+        height: auto;
+        cursor: pointer;
+    }
+
+    .whatIsIgnite {
+        background: black url("../../images/background/mobile/youth/whatIYLSBg.png") no-repeat center;
+        background-size: cover;
+        padding-bottom: 5vh;
+    }
+
+    .whatIsIgniteTitle {
+        margin-top: 5vh;
+        width: 50%;
+        height: auto;
+    }
+
+    .whatIsIgniteText {
+        margin-top: 5vh;
+        width: 90%;
+        height: auto;
+    }
+
+    .speakers-andy {
+        background: #000000 url("../../images/background/mobile/youth/andyBg.png") no-repeat center;
+        background-size: cover;
+        padding-top: 5vh;
+    }
+
+    .topSpeaker{
+        position: relative;
+    }
+
+    .speakers-andy .leftSpeaker img{
+        bottom: 0;
+        width: 110%;
+        height: auto;
+        padding-left: 4vw;
+        margin-bottom: 2vh;
+    }
+
+    .speakers-andy .rightSpeaker img{
+        position:absolute;
+        bottom:0;
+        left: 0;
+        width: 100%;
+        height: auto;
+    }
+
+    .speakers-kenny {
+        background: #000000;
+        background-size: cover;
+        padding-top: 5vh;
+    }
+
+    .speakers-kenny .leftSpeaker img{
+        bottom: 0;
+        width: 115%;
+        height: auto;
+        padding-left: 4vw;
+        margin-bottom: 2vh;
+    }
+
+    .speakers-kenny .rightSpeaker img{
+        position:absolute;
+        bottom:0;
+        left: 0;
+        width: 100%;
+        height: auto;
+    }
+
+    .speakers-marriane {
+        background: #000000 url("../../images/background/mobile/youth/marrianeBg.png") no-repeat center;
+        background-size: cover;
+    }
+
+    .speakers-marriane .leftSpeaker img{
+        padding-top: 5vh;
+        width: 120%;
+        height: auto;
+        padding-left: 4vw;
+        margin-bottom: 2vh;
+    }
+
+    .speakers-marriane .rightSpeaker img{
+        position:absolute;
+        bottom:0;
+        left: 0;
+        width: 100%;
+        height: auto;
+    }
+
+    .specialPerformance {
+        background: black url("../../images/background/mobile/youth/section6.png") no-repeat center;
+        background-size: cover;
+        padding-bottom: 5vh;
+    }
+
+    .specialPerformance .specialTitle {
+        margin-top: 5vh;
+        width: 50%;
+        height: auto;
+    }
+
+    .specialPerformance .specialName {
+        padding-top: 18vh;
+        margin-left: 5vw;
+        width: 50%;
+    }
+
+}

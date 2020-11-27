@@ -1,0 +1,107 @@
+@media only screen and (max-width: 1199px) {
+    /* Firefox */
+    input[type=number] {
+        -moz-appearance: textfield;
+    }
+
+    .section-1 {
+        background: black url("../../images/background/mobile/home/section1.png") no-repeat center;
+        background-size: cover;
+        padding-bottom: 10vh;
+    }
+
+    .section-1 .igniteLogo img {
+        padding-top: 3vh;
+        padding-left: 3vh;
+        width: 30%;
+    }
+
+    .section-1 .titleContainer img {
+        padding-top: 8vh;
+        width: 50%;
+    }
+
+    .section-1 .registerHomeBtn img {
+        padding-top: 10vh;
+        width: 50%;
+    }
+
+    .section-2 {
+        background: #ff6600 url("../../images/background/desktop/home/section2.png") no-repeat center;
+        background-size: cover;
+        padding-top: 5vh;
+        padding-bottom: 5vh;
+    }
+
+    .section-2 img {
+        width: 80%;
+        padding-bottom: 5vh;
+    }
+
+    .section-2 .youtube-video {
+        width: 80%;
+        height: 30vh;
+    }
+
+    .section-3 {
+        background: black url("../../images/background/desktop/home/column1.png") no-repeat center;
+        background-size: cover;
+        padding-top: 5vh;
+        padding-bottom: 5vh;
+    }
+
+    .section-3 .titleContainer img {
+        width: 70%;
+    }
+
+    .section-3 .tellMeMoreBtn {
+        margin: 10% auto;
+    }
+
+    .section-3 .tellMeMoreBtn img {
+        width: 50%;
+    }
+
+    .section-3-1 {
+        background: black url("../../images/background/mobile/home/comingSoonBg.png") no-repeat center;
+        background-size: cover;
+        padding-top: 5vh;
+        padding-bottom: 5vh;
+    }
+
+    .section-3-1 img {
+        width: 50%;
+        margin-right: 10vw;
+    }
+
+    .section-4 {
+        background: black url("../../images/background/desktop/home/section4.png") no-repeat center;
+        background-size: cover;
+        padding-top: 2vh;
+    }
+
+    .section-4 .leftTitle img {
+        width: 70%;
+    }
+
+    .section-4 .rightTitle img {
+        margin-top: 6vh;
+        width: 80%;
+    }
+
+    .section-5 {
+        background: black;
+        background-size: cover;
+        padding-top: 5vh;
+        padding-bottom: 5vh;
+    }
+
+    .section-5 .speakerTitle {
+        width: 80%;
+    }
+
+    .section-5 .speakers .speakerName img {
+        margin-top: 5vh;
+        width: 80%;
+    }
+}

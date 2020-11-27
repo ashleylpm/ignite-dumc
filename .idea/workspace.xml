@@ -14,10 +14,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11d1a5ba-b057-4899-acdf-71cc8297de1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/home-button.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/view/first.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/first.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/view/rally.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/rally.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/styles/desktop/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/desktop/home.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +42,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -54,10 +52,18 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\Work\ignite\src\components\styles" />
+      <recent name="C:\Users\User\Documents\Work\ignite\src\components\styles\desktop" />
+      <recent name="C:\Users\User\Documents\Work\ignite\src\components\routes\desktop" />
+      <recent name="C:\Users\User\Documents\Work\ignite\src2" />
+      <recent name="C:\Users\User\Documents\Work\ignite\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\User\Documents\Work\ignite\src" />
       <recent name="C:\Users\User\Documents\Work\ignite\src\components" />
-      <recent name="$PROJECT_DIR$/src" />
-      <recent name="$PROJECT_DIR$/src/Components/ignite-youth" />
+      <recent name="C:\Users\User\Documents\Work\ignite\src\components\styles" />
+      <recent name="C:\Users\User\Documents\Work\ignite\src\components\view\mobile" />
+      <recent name="C:\Users\User\Documents\Work\ignite\src\components\routes\mobile" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -95,7 +101,8 @@
       <workItem from="1605666913515" duration="599000" />
       <workItem from="1605847954216" duration="8968000" />
       <workItem from="1606058497131" duration="4988000" />
-      <workItem from="1606474734553" duration="2055000" />
+      <workItem from="1606474734553" duration="5804000" />
+      <workItem from="1606485069958" duration="18947000" />
     </task>
     <servers />
   </component>
@@ -118,6 +125,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="729" y="327" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606500682014">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="729" y="327" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050/1920.250.1920.1050@0.0.1920.1050" timestamp="1606500682014" />
     <state x="698" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601968595220">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -151,11 +162,11 @@
     </state>
     <state x="776" y="245" key="RollbackChangesDialog/0.0.1920.1050/1920.250.1920.1050@0.0.1920.1050" timestamp="1606477339617" />
     <state x="2696" y="495" key="RollbackChangesDialog/0.0.1920.1050/1920.250.1920.1050@1920.250.1920.1050" timestamp="1603683446059" />
-    <state x="355" y="113" width="1507" height="699" key="find.popup" timestamp="1604137193924">
+    <state x="338" y="61" width="1507" height="699" key="find.popup" timestamp="1606508787378">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="266" y="97" width="1130" height="599" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1603080205538" />
-    <state x="355" y="113" width="1507" height="699" key="find.popup/0.0.1920.1050/1920.250.1920.1050@0.0.1920.1050" timestamp="1604137193924" />
+    <state x="338" y="61" width="1507" height="699" key="find.popup/0.0.1920.1050/1920.250.1920.1050@0.0.1920.1050" timestamp="1606508787378" />
     <state x="2275" y="363" width="1507" height="699" key="find.popup/0.0.1920.1050/1920.250.1920.1050@1920.250.1920.1050" timestamp="1603721081568" />
     <state x="667" y="295" width="586" height="490" key="find.popup/1920.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1601973251576" />
     <state x="355" y="137" width="1506" height="703" key="find.popup/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1602838396328" />
@@ -183,11 +194,6 @@
           <url>file://$PROJECT_DIR$/../web/frontend/resources/views/partners/master.blade.php</url>
           <line>2</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/components/view/first.js</url>
-          <line>16</line>
-          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -1,0 +1,197 @@
+@media only screen and (min-width: 1200px) {
+    .igniteYouth {
+        background: black url("../../images/background/desktop/igniteYouth/section1.png") no-repeat center;
+        background-size: cover;
+        height: 100vh;
+        align-items: center;
+    }
+
+    .igniteYouth .igniteLogo img {
+        margin-left: 5vw;
+        margin-top: 3vw;
+        width: 20%;
+        height: auto;
+    }
+
+    .igniteYouth .igniteTitle img {
+        margin-top: 10vh;
+        margin-left: 30%;
+        width: 50%;
+        height: auto;
+    }
+
+    .attention {
+        background: black;
+        background-size: cover;
+        height: 60vh;
+        align-items: center;
+    }
+
+    .attentionTitle {
+        margin-top: 5vh;
+        width: 50%;
+        height: auto;
+    }
+
+    .attentionText {
+        margin-top: 5vh;
+        width: 70%;
+        height: auto;
+    }
+
+    .scheduleContainer {
+        background: black url("../../images/background/desktop/igniteYouth/section2.png") no-repeat center;
+        background-size: cover;
+        height: 105vh;
+        align-items: center;
+    }
+
+    .scheduleRow {
+        padding-top: 20vh;
+    }
+
+    .scheduleContainer .leftSchedule img {
+        width: 55%;
+        height: auto;
+    }
+
+    .scheduleTime {
+        width: 50%;
+        height: auto;
+    }
+
+    .attendInPerson {
+        margin-top: 5vh;
+        width: 50%;
+        height: auto;
+        cursor: pointer;
+    }
+
+    .scheduleTime {
+        margin-top: 5vh;
+        width: 50%;
+        height: auto;
+        cursor: pointer;
+    }
+
+    .scheduleOnline {
+        margin-top: 5vh;
+        width: 50%;
+        height: auto;
+        cursor: pointer;
+    }
+
+    .registrationCloses {
+        width: 50%;
+        height: auto;
+        cursor: pointer;
+    }
+
+    .whatIsIgnite {
+        background: black url("../../images/background/desktop/igniteYouth/section3.png") no-repeat center;
+        background-size: cover;
+        height: 100vh;
+    }
+
+    .whatIsIgniteTitle {
+        margin-top: 5vh;
+        width: 50%;
+        height: auto;
+    }
+
+    .whatIsIgniteText {
+        margin-top: 15vh;
+        width: 90%;
+        height: auto;
+    }
+
+    .speakers-andy {
+        background: #000000 url("../../images/background/desktop/igniteYouth/andyBg.png") no-repeat center;
+        background-size: cover;
+        padding-top: 15vh;
+    }
+
+    .topSpeaker {
+        position: relative;
+    }
+
+    .speakers-andy .leftSpeaker img {
+        bottom: 0;
+        width: 110%;
+        padding-left: 4vw;
+        margin-bottom: 5vh;
+    }
+
+    .speakers-andy .rightSpeaker img {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        width: 80%;
+        height: auto;
+    }
+
+    .speakers-kenny {
+        background: #000000;
+        background-size: cover;
+        padding-top: 15vh;
+    }
+
+    .speakers-kenny .leftSpeaker img {
+        bottom: 0;
+        width: 130%;
+        height: auto;
+        padding-left: 4vw;
+        margin-bottom: 5vh;
+    }
+
+    .speakers-kenny .rightSpeaker img {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        height: auto;
+    }
+
+    .speakers-marriane {
+        background: #000000 url("../../images/background/desktop/igniteYouth/marrianeBg.png") no-repeat center;
+        background-size: cover;
+        padding-top: 15vh;
+    }
+
+    .speakers-marriane .leftSpeaker img {
+        padding-top: 5vh;
+        width: 130%;
+        height: auto;
+        padding-left: 4vw;
+        margin-bottom: 5vh;
+    }
+
+    .speakers-marriane .rightSpeaker img {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        height: auto;
+    }
+
+    .specialPerformance {
+        background: black url("../../images/background/desktop/igniteYouth/section6.png") no-repeat center;
+        background-size: cover;
+        height: 100vh;
+        color: white;
+        position: relative;
+    }
+
+    .specialPerformance .specialTitle {
+        margin-top: 5vh;
+        width: 50%;
+        height: auto;
+    }
+
+    .specialPerformance .specialName {
+        margin-top: 30vh;
+        margin-left: 10vh;
+        width: 50%;
+        height: auto;
+    }
+}

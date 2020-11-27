@@ -1,0 +1,305 @@
+form {
+    text-align: center;
+}
+
+.formBackground {
+    background: black;
+    width: 90%;
+}
+
+.registrationTitle {
+    width: auto;
+    height: 4vh;
+}
+
+form input{
+    width: 100%;
+}
+
+.formName {
+    margin-top: 2vh;
+    background: url("../images/forms/fullName.png") no-repeat;
+    background-size: contain;
+    color: transparent;
+    font-size: 1rem;
+    width: 100%;
+}
+
+.formAge {
+    background: url("../images/forms/age.png") no-repeat;
+    background-size: contain;
+    color: transparent;
+    font-size: 1rem;
+    width: 100%;
+}
+
+.formNRIC {
+    background: url("../images/forms/nric.png") no-repeat;
+    background-size: contain;
+    color: transparent;
+    font-size: 1rem;
+    width: 100%;
+}
+
+.formHP {
+    background: url("../images/forms/handPhone.png") no-repeat;
+    background-size: contain;
+    color: transparent;
+    font-size: 1rem;
+    width: 100%;
+}
+
+.formEmail {
+    background: url("../images/forms/email.png") no-repeat;
+    background-size: contain;
+    color: transparent;
+    font-size: 1rem;
+    width: 100%;
+}
+
+.participantKit {
+    margin: 5vh 0 5vh 0;
+    width: 80%;
+}
+
+.formHouse {
+    background: url("../images/forms/address.png") no-repeat;
+    background-size: contain;
+    color: transparent;
+    font-size: 1rem;
+    width: 100%;
+}
+
+.formCity {
+    background: url("../images/forms/city.png") no-repeat;
+    background-size: contain;
+    color: transparent;
+    font-size: 1rem;
+    width: 100%;
+}
+
+.formPostcode {
+    background: url("../images/forms/postcode.png") no-repeat;
+    background-size: contain;
+    color: transparent;
+    font-size: 1rem;
+    width: 100%;
+}
+
+.formState {
+    background: url("../images/forms/state.png") no-repeat;
+    background-size: contain;
+    color: transparent;
+    font-size: 1rem;
+    width: 100%;
+}
+
+.formSchool {
+    background: url("../images/forms/school.png") no-repeat;
+    background-size: contain;
+    color: transparent;
+    font-size: 1rem;
+    width: 100%;
+}
+
+.formTeach {
+    background: url("../images/forms/teacherStudent.png") no-repeat;
+    background-size: contain;
+    color: transparent;
+    font-size: 1rem;
+    width: 100%;
+}
+
+.formRemarks {
+    background: url("../images/forms/remarks.png") no-repeat;
+    background-size: contain;
+    color: transparent;
+    font-size: 1rem;
+    width: 100%;
+}
+
+.form-group button{
+    background: transparent;
+    border: transparent;
+}
+
+.form-group button img {
+    width: 40%;
+}
+
+.disclaimer-container {
+    margin-bottom: 1rem;
+}
+
+.disclaimerImg {
+    width: 100%
+}
+
+.checkbox-container {
+    display: block;
+    position: relative;
+    padding-left: 35px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    font-size: 22px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+/* Hide the browser's default checkbox */
+.checkbox-container input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+}
+
+/* Create a custom checkbox */
+.checkmark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 30px;
+    width: 30px;
+    background: url("../images/forms/agreeUnfilled.png") no-repeat;
+    background-size: contain;
+}
+
+/* On mouse-over, add a grey background color */
+.checkbox-container :hover input ~ .checkmark {
+    background-color: #ccc;
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+.checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+}
+
+/* Show the checkmark when checked */
+.checkbox-container input:checked ~ .checkmark:after {
+    display: block;
+}
+
+/* Style the checkmark/indicator */
+.checkbox-container .checkmark:after {
+    left: 0;
+    top: 0;
+    height: 30px;
+    width: 30px;
+    background: url("../images/forms/agreeFilled.png") no-repeat;
+    background-size: contain;
+}
+
+.formCheckbox {
+    margin-bottom: 2vh;
+    width: 100%;
+}
+
+.form-group input {
+    border: 0px solid #444444;
+    width: 100%;
+    background: url("../images/forms/inputBox.png") no-repeat right top;
+    color: black;
+    padding-left: 4px;
+    font-size: 20px;
+}
+
+label {
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Old versions of Firefox */
+    -ms-user-select: none; /* Internet Explorer/Edge */
+    user-select: none;
+    /* Non-prefixed version, currently
+                                     supported by Chrome, Edge, Opera and Firefox */
+}
+
+.modal-cover {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+    transform: translateZ(0);
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.modal-area {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    padding: 2.5em 1.5em 1.5em 1.5em;
+    background-color: black;
+    box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0.1);
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+@media screen and (min-width: 500px) {
+    /* Center the Modal! */
+    .modal-area {
+        left: 50%;
+        top: 50%;
+        height: auto;
+        transform: translate(-50%, -50%);
+        max-width: 50em;
+        max-height: calc(100% - 1em);
+        -ms-overflow-style: none;  /* IE and Edge */
+        scrollbar-width: none;  /* Firefox */
+    }
+
+    .modal-area::-webkit-scrollbar {
+        display: none;
+    }
+}
+
+._modal-close {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 0.5em;
+    line-height: 1;
+    background: #f6f6f7;
+    border: 0;
+    box-shadow: 0;
+    cursor: pointer;
+}
+
+._modal-close-icon {
+    width: 25px;
+    height: 25px;
+    fill: transparent;
+    stroke: black;
+    stroke-linecap: round;
+    stroke-width: 2;
+}
+
+.modal-body {
+    padding-top: 0.25em;
+    overflow: hidden;
+}
+._hide-visual {
+    border: 0 !important;
+    clip: rect(0 0 0 0) !important;
+    height: 1px !important;
+    margin: -1px !important;
+    overflow: hidden !important;
+    padding: 0 !important;
+    position: absolute !important;
+    width: 1px !important;
+    white-space: nowrap !important;
+}
+
+.scroll-lock {
+    overflow: hidden;
+    margin-right: 17px;
+}
