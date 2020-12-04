@@ -63,15 +63,22 @@
     }
 
     .section-3-1 {
-        background: black url("../../images/background/mobile/home/comingSoonBg.png") no-repeat center;
+        background: black url("../../images/background/desktop/home/column2.png") no-repeat center;
         background-size: cover;
         padding-top: 5vh;
         padding-bottom: 5vh;
     }
 
-    .section-3-1 img {
+    .section-3-1 .titleContainer img {
+        width: 70%;
+    }
+
+    .section-3-1 .tellMeMoreBtn {
+        margin: 5% auto;
+    }
+
+    .section-3-1 .tellMeMoreBtn img {
         width: 50%;
-        margin-right: 10vw;
     }
 
     .section-4 {

@@ -2,6 +2,7 @@ import React from "react";
 import HomePage from "../../routes/desktop/home";
 import { FormContainer2 } from "../form/form-container/index2";
 import * as RB from "react-bootstrap";
+import InstagramMobile from "./instagram";
 
 function First() {
 
@@ -66,19 +67,7 @@ function First() {
                     </RB.Row>
                 </div>
 
-
-                <a href="https://instagram.com/ignitemy______?igshid=jkcmbphuplgl" target="_blank" >
-                    <div className="section-4 text-center">
-                        <RB.Row className="topTitle">
-                            <RB.Col className="leftTitle">
-                                <img src={require('../../images/assets/common/instagramPhone.png')}/>
-                            </RB.Col>
-                            <RB.Col className="rightTitle">
-                                <img src={require('../../images/assets/common/followUs.png')}/>
-                            </RB.Col>
-                        </RB.Row>
-                    </div>
-                </a>
+                <InstagramMobile />
 
                 <div className="specialPerformance">
                     <div className="text-center">

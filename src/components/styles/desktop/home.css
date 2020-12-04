@@ -104,11 +104,25 @@
     }
 
     .column-2 {
-        background: black url("../../images/background/desktop/home/column2-1.png") no-repeat center;
+        background: black url("../../images/background/desktop/home/column2.png") no-repeat center;
         background-size: cover;
         min-height: 100vh;
         align-items: center;
         color: white;
+    }
+
+    .column-2 img {
+        margin-top: 32.5vh;
+        width: 60%;
+    }
+
+    .tellMeMoreBtn {
+        width: 100%;
+    }
+
+    .tellMeMoreBtn img {
+        width: 35%;
+        margin-bottom: 15vh;
     }
 
     .section-4 {

@@ -3,6 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import HomePage from "../../routes/desktop/home";
 import { FormContainer2 } from "../form/form-container/index2";
 import * as RB from "react-bootstrap";
+import Instagram from "./instagram";
 
 function igniteYouth() {
 
@@ -67,19 +68,7 @@ function igniteYouth() {
                     </RB.Row>
                 </div>
 
-
-                <a href="https://instagram.com/ignitemy______?igshid=jkcmbphuplgl" target="_blank" >
-                    <div className="section-4 text-center">
-                        <RB.Row className="topTitle">
-                            <RB.Col className="leftTitle">
-                                <img src={require('../../images/assets/common/instagramPhone.png')} alt="instagram-phone"/>
-                            </RB.Col>
-                            <RB.Col className="rightTitle">
-                                <img src={require('../../images/assets/common/followUs.png')} alt="follow-us"/>
-                            </RB.Col>
-                        </RB.Row>
-                    </div>
-                </a>
+                <Instagram />
 
                 <div className="specialPerformance">
                     <div className="text-center">

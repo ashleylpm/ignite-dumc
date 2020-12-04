@@ -4,6 +4,8 @@ import * as RB from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import RegisterBtn from "../../routes/mobile/youth1";
 import TellMeMoreBtn from "../../routes/mobile/youth2";
+import TellMeMoreBtn2 from "../../routes/mobile/rally";
+import InstagramMobile from "./instagram";
 
 function Home() {
     const opts = {
@@ -41,22 +43,20 @@ function Home() {
                 </RB.Row>
             </div>
 
-            <div className="section-3-1 text-right">
-                <img src={require('../../images/assets/mobile/comingSoon.png')}/>
+            <div className="section-3-1 text-center">
+                <RB.Row>
+                    <RB.Col>
+                        <div className="titleContainer">
+                            <img src={require('../../images/assets/common/igniteRally.png')}/>
+                        </div>
+                    </RB.Col>
+                    <RB.Col>
+                        <TellMeMoreBtn2 />
+                    </RB.Col>
+                </RB.Row>
             </div>
 
-            <a href="https://instagram.com/ignitemy______?igshid=jkcmbphuplgl" target="_blank" >
-                <div className="section-4 text-center">
-                    <RB.Row className="topTitle">
-                        <RB.Col className="leftTitle">
-                            <img src={require('../../images/assets/common/instagramPhone.png')}/>
-                        </RB.Col>
-                        <RB.Col className="rightTitle">
-                            <img src={require('../../images/assets/common/followUs.png')}/>
-                        </RB.Col>
-                    </RB.Row>
-                </div>
-            </a>
+            <InstagramMobile />
 
             <div className="section-5 text-center">
                 <img src={require('../../images/assets/home/speakersTitle.png')} className="speakerTitle"/>

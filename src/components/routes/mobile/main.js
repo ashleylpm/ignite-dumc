@@ -3,6 +3,7 @@ import {Switch, Route, withRouter} from "react-router-dom";
 import { TransitionGroup, CSSTransition } from "react-transition-group";
 import Home from "../../view/mobile/home";
 import Youth from "../../view/mobile/ignite-youth";
+import Rally from "../../view/mobile/rally";
 
 function Container({ location }) {
     return (
@@ -16,6 +17,7 @@ function Container({ location }) {
                     <Switch location={location}>
                         <Route exact path="/" component={Home} />
                         <Route path="/ignite-youth" component={Youth} />
+                        <Route path="/ignite-rally" component={Rally} />
                     </Switch>
                 </CSSTransition>
             </TransitionGroup>

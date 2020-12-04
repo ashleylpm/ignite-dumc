@@ -7,6 +7,8 @@ import './components/styles/desktop/home.css';
 import './components/styles/mobile/home.css';
 import './components/styles/desktop/youth.css';
 import './components/styles/mobile/youth.css';
+import './components/styles/desktop/rally.css';
+import './components/styles/mobile/rally.css';
 
 
 import MainDesktop from "./components/routes/desktop/main";

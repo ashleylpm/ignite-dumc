@@ -4,6 +4,8 @@ import * as RB from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import RegisterBtn from "../../routes/desktop/youth1";
 import TellMeMoreBtn from "../../routes/desktop/youth2";
+import TellMeMoreBtn2 from "../../routes/desktop/rally";
+import Instagram from "./instagram";
 
 function Home() {
     const opts = {
@@ -39,23 +41,14 @@ function Home() {
                             <TellMeMoreBtn />
                         </RB.Col>
                         <RB.Col className="column-2" style={{color: "black"}}>
+                            <img src={require('../../images/assets/common/igniteRally.png')} alt="ignite-summit"/>
+                            <TellMeMoreBtn2 />
                         </RB.Col>
                     </RB.Row>
                 </RB.Container>
             </div>
 
-            <a href="https://instagram.com/ignitemy______?igshid=jkcmbphuplgl" target="_blank" >
-                <div className="section-4 text-center">
-                    <RB.Row className="topTitle">
-                        <RB.Col className="leftTitle">
-                            <img src={require('../../images/assets/common/instagramPhone.png')} alt="instagram-phone"/>
-                        </RB.Col>
-                        <RB.Col className="rightTitle">
-                            <img src={require('../../images/assets/common/followUs.png')} alt="follow-us"/>
-                        </RB.Col>
-                    </RB.Row>
-                </div>
-            </a>
+            <Instagram />
 
             <div className="section-5 text-center">
                 <img src={require('../../images/assets/home/speakersTitle.png')} alt="speakers-title" className="speakerTitle"/>
