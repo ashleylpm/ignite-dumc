@@ -41,10 +41,10 @@ function Rally() {
             <div className="speakers-andy text-center">
                 <RB.Row className="topSpeaker">
                     <RB.Col className="leftSpeaker">
-                        <img src={require('../../images/assets/youth/andyText.png')}/>
+                        <img src={require('../../images/assets/mobile/youth/andyText.png')}/>
                     </RB.Col>
                     <RB.Col className="rightSpeaker">
-                        <img src={require('../../images/assets/youth/andyImage.png')}/>
+                        <img src={require('../../images/assets/mobile/youth/andyImage.png')}/>
                     </RB.Col>
                 </RB.Row>
             </div>

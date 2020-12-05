@@ -41,8 +41,8 @@ function Home() {
                             <TellMeMoreBtn />
                         </RB.Col>
                         <RB.Col className="column-2" style={{color: "black"}}>
-                            <img src={require('../../images/assets/common/igniteRally.png')} alt="ignite-summit"/>
-                            <TellMeMoreBtn2 />
+                            {/*<img src={require('../../images/assets/common/igniteRally.png')} alt="ignite-summit"/>*/}
+                            {/*<TellMeMoreBtn2 />*/}
                         </RB.Col>
                     </RB.Row>
                 </RB.Container>

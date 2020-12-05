@@ -6,17 +6,16 @@
     }
 
     .igniteRally .rallyLogo img {
-        margin-left: 10vw;
-        margin-top: 5vw;
-        width: 20%;
-        height: auto;
+        padding-top: 3vh;
+        padding-left: 1vw;
+        width: 30%;
     }
 
     .igniteRally .rallyTitle img {
-        margin-top: 10vh;
-        margin-left: 30%;
-        width: 40%;
-        height: auto;
+        margin-top: 5vh;
+        margin-left: 25%;
+        width: 50%;
+        height: 100% !important;
     }
 
     .rallySchedule {
@@ -49,20 +48,17 @@
     .rallyInfo .topText img {
         margin-top: 5vh;
         width: 100%;
-        height: auto;
     }
 
     .rallyInfo .middleImage img {
         margin-top: 2vh;
         margin-left: 25%;
         width: 50%;
-        height: auto;
     }
 
     .rallyInfo .bottomText img {
         margin-top: 2vh;
         width: 100%;
-        height: auto;
     }
 
     .speakers {
@@ -82,7 +78,7 @@
     .speakers-andy {
         background: #000000 url("../../images/background/mobile/rally/andyBg.png") no-repeat center;
         background-size: cover;
-        padding-top: 10vh;
+        padding-top: 4vh;
     }
 
     .speakers-andy .leftSpeaker img {

@@ -30,17 +30,17 @@ function First() {
                 </div>
 
                 <div className="whatIsIgnite text-center">
-                    <img src={require('../../images/assets/youth/whatIgnite.png')} className="whatIsIgniteTitle"/><br/>
-                    <img src={require('../../images/assets/youth/igniteText.png')} className="whatIsIgniteText"/>
+                    <img src={require('../../images/assets/mobile/youth/whatIgnite.png')} className="whatIsIgniteTitle"/><br/>
+                    <img src={require('../../images/assets/mobile/youth/igniteText.png')} className="whatIsIgniteText"/>
                 </div>
 
                 <div className="speakers-andy text-center">
                     <RB.Row className="topSpeaker">
                         <RB.Col className="leftSpeaker">
-                            <img src={require('../../images/assets/youth/andyText.png')}/>
+                            <img src={require('../../images/assets/mobile/youth/andyText.png')}/>
                         </RB.Col>
                         <RB.Col className="rightSpeaker">
-                            <img src={require('../../images/assets/youth/andyImage.png')}/>
+                            <img src={require('../../images/assets/mobile/youth/andyImage.png')}/>
                         </RB.Col>
                     </RB.Row>
                 </div>
@@ -48,10 +48,10 @@ function First() {
                 <div className="speakers-kenny text-center">
                     <RB.Row className="topSpeaker">
                         <RB.Col className="leftSpeaker">
-                            <img src={require('../../images/assets/youth/kennyText.png')}/>
+                            <img src={require('../../images/assets/mobile/youth/kennyText.png')}/>
                         </RB.Col>
                         <RB.Col className="rightSpeaker">
-                            <img src={require('../../images/assets/youth/kennyImage.png')}/>
+                            <img src={require('../../images/assets/mobile/youth/kennyImage.png')}/>
                         </RB.Col>
                     </RB.Row>
                 </div>
@@ -59,10 +59,10 @@ function First() {
                 <div className="speakers-marriane text-center">
                     <RB.Row className="topSpeaker">
                         <RB.Col className="leftSpeaker">
-                            <img src={require('../../images/assets/youth/marrianeText.png')}/>
+                            <img src={require('../../images/assets/mobile/youth/marrianeText.png')}/>
                         </RB.Col>
                         <RB.Col className="rightSpeaker">
-                            <img src={require('../../images/assets/youth/marrianeImage.png')}/>
+                            <img src={require('../../images/assets/mobile/youth/marrianeImage.png')}/>
                         </RB.Col>
                     </RB.Row>
                 </div>

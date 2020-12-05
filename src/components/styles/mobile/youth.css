@@ -13,8 +13,9 @@
 
     .igniteYouth img {
         padding-top: 8vh;
-        width: 80%;
+        width: 60%;
         margin: auto;
+        height: 100% !important;
     }
 
     .scheduleContainer {
