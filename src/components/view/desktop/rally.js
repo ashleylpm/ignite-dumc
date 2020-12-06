@@ -35,7 +35,7 @@ function Rally() {
             </div>
 
             <div className="speakersRally">
-                <img src={require('../../images/assets/home/speakersTitle.png')} alt="speakers-title" className="speakerTitle"/>
+                <img src={require('../../images/assets/rally/speaker.png')} alt="speakers-title" className="speakerTitle"/>
             </div>
 
             <div className="speakers-andy text-center">

@@ -44,17 +44,16 @@ function Home() {
             </div>
 
             <div className="section-3-1 text-center">
-                {/*<RB.Row>*/}
-                {/*    <RB.Col>*/}
-                {/*        <div className="titleContainer">*/}
-                {/*            <img src={require('../../images/assets/common/igniteRally.png')}/>*/}
-                {/*        </div>*/}
-                {/*    </RB.Col>*/}
-                {/*    <RB.Col>*/}
-                {/*        <TellMeMoreBtn2 />*/}
-                {/*    </RB.Col>*/}
-                {/*</RB.Row>*/}
-                <img src={require('../../images/assets/mobile/comingSoon.png')}/>
+                <RB.Row>
+                    <RB.Col>
+                        <div className="titleContainer">
+                            <img src={require('../../images/assets/common/igniteRally.png')}/>
+                        </div>
+                    </RB.Col>
+                    <RB.Col>
+                        <TellMeMoreBtn2 />
+                    </RB.Col>
+                </RB.Row>
             </div>
 
             <InstagramMobile />

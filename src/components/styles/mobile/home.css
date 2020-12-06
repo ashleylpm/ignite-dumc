@@ -63,7 +63,7 @@
     }
 
     .section-3-1 {
-        background: black url("../../images/background/mobile/home/comingSoonBg.png") no-repeat center; /*change to column2 when rally comes out*/
+        background: black url("../../images/background/desktop/home/column2.png") no-repeat center; /*change to column2 when rally comes out*/
         background-size: cover;
         padding-top: 5vh;
         padding-bottom: 5vh;
@@ -74,17 +74,17 @@
         margin: auto;
     }
 
-    /*.section-3-1 .titleContainer img {*/
-    /*    width: 70%;*/
-    /*}*/
+    .section-3-1 .titleContainer img {
+        width: 70%;
+    }
 
-    /*.section-3-1 .tellMeMoreBtn {*/
-    /*    margin: 5% auto;*/
-    /*}*/
+    .section-3-1 .tellMeMoreBtn {
+        margin: 5% auto;
+    }
 
-    /*.section-3-1 .tellMeMoreBtn img {*/
-    /*    width: 50%;*/
-    /*}*/
+    .section-3-1 .tellMeMoreBtn img {
+        width: 50%;
+    }
 
     .section-4 {
         background: black url("../../images/background/desktop/home/section4.png") no-repeat center;
