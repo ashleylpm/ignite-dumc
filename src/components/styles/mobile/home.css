@@ -116,4 +116,9 @@
         margin-top: 5vh;
         width: 80%;
     }
+
+    .scheduleContainer .registerHomeBtn img {
+        padding-top: 10vh;
+        width: 70%;
+    }
 }
