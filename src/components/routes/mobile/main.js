@@ -18,6 +18,10 @@ function Container({ location }) {
                         <Route exact path="/" component={Home} />
                         <Route path="/ignite-youth" component={Youth} />
                         <Route path="/ignite-rally" component={Rally} />
+                        <Route path="/watch" component={() => {
+                            window.location.href = 'https://ignitemy.online.church/';
+                            return null;
+                        }} />
                     </Switch>
                 </CSSTransition>
             </TransitionGroup>

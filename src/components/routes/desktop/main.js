@@ -4,6 +4,7 @@ import { TransitionGroup, CSSTransition } from "react-transition-group";
 import Home from "../../view/desktop/home";
 import Youth from "../../view/desktop/ignite-youth";
 import Rally from "../../view/desktop/rally";
+import Blog from "../../view/desktop/blog";
 
 function Container({ location }) {
     return (
@@ -18,6 +19,11 @@ function Container({ location }) {
                         <Route exact path="/" component={Home} />
                         <Route path="/ignite-youth" component={Youth} />
                         <Route path="/ignite-rally" component={Rally} />
+                        <Route path="/watch" component={() => {
+                            window.location.href = 'https://ignitemy.online.church/';
+                            return null;
+                        }} />
+                        <Route path="/blog" component={Blog} />
                     </Switch>
                 </CSSTransition>
             </TransitionGroup>
