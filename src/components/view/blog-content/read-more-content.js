@@ -5,9 +5,9 @@ export default ({ close }) => (
         <div className="text-center">
             <img src={require('../../images/assets/blog/sampleImg.png')} alt="blog-title" className="content-image"/>
         </div>
-        <div className="header">THIS IS THE TITLE THAT COULD GO UP TO 2 LINES</div>
-        <div className="nameDate">JOHN APPLESEED<br/>22nd Dec 2020</div>
-        <div className="content">
+        <div className="header font-gothamBlack">THIS IS THE TITLE THAT COULD GO UP TO 2 LINES</div>
+        <div className="nameDate font-gothamLight">JOHN APPLESEED<br/>22nd Dec 2020</div>
+        <div className="content font-gothamLight">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec suscipit consequat urna,
             in congue purus eleifend in. Integer vehicula, velit non faucibus egestas, massa nunc
             viverra risus, et efficitur turpis metus vitae felis. Sed et aliquam odio, sit amet

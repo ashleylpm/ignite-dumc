@@ -11,14 +11,14 @@ class BlogColumn extends Component {
                     <img src={require('../../images/assets/blog/sampleImg.png')} alt="blog-title"
                     className="sample-img"/>
                 </div>
-                <div className="content-title">
+                <div className="content-title font-gothamBlack">
                     THIS IS THE TITLE THAT COULD GO UP TO 2 LINES
                 </div>
-                <div className="content-nameDate">
+                <div className="content-nameDate font-gothamLight">
                     JOHN APPLESEED<br/>
                     22nd Dec 2020
                 </div>
-                <div className="blog-text">
+                <div className="blog-text font-gothamLight">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec suscipit consequat urna,
                     in congue purus eleifend in. Integer vehicula, velit non faucibus egestas, massa nunc
                     viverra risus, et efficitur turpis metus vitae felis. Sed et aliquam odio, sit amet

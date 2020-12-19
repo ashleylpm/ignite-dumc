@@ -1,4 +1,17 @@
 @media only screen and (min-width: 1200px) {
+
+    .font-gothamBlack {
+        font-family: GothamBlack;
+    }
+
+    .font-gothamLight {
+        font-family: GothamLight;
+    }
+
+    .font-gothamUltraItalic {
+        font-family: GothamUltraItalic;
+    }
+
     .blog-header {
         background: black url("../../images/background/desktop/blog/header-bg.png") no-repeat center;
         background-size: cover;
@@ -44,7 +57,7 @@
         padding-top: 1vh;
         font-size: 20px;
         line-height: 3vh;
-        color: orange;
+        color: #ff6600;
     }
 
     .content-nameDate {
@@ -65,7 +78,7 @@
     }
 
     .read-more {
-        color: orange;
+        color: #ff6600;
         cursor: pointer;
     }
 }

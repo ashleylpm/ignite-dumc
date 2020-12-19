@@ -2,6 +2,23 @@ html {
     height: 100%;
 }
 
+@font-face {
+    font-family: GothamBlack;
+    src: url(./fonts/Gotham-Black.woff);
+}
+
+@font-face {
+    font-family: GothamLight;
+    src: url(./fonts/Gotham-Light.woff);
+}
+
+
+@font-face {
+    font-family: GothamUltraItalic;
+    src: url(./fonts/Gotham-UltraItalic.woff);
+}
+
+
 body {
     overflow-x: hidden;
     height: 100%;
