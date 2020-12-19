@@ -1,0 +1,84 @@
+@media only screen and (max-width: 1199px) {
+
+    .font-gothamBlack {
+        font-family: GothamBlack;
+    }
+
+    .font-gothamLight {
+        font-family: GothamLight;
+    }
+
+    .font-gothamUltraItalic {
+        font-family: GothamUltraItalic;
+    }
+
+    .blog-header {
+        background: black url("../../images/background/desktop/blog/header-bg.png") no-repeat center;
+        background-size: cover;
+        height: 40vh;
+        align-items: center;
+        position: relative;
+    }
+
+    .header-content {
+        padding-top: 10vh;
+    }
+
+    .blog-title {
+        width: 80%;
+    }
+
+    .header-text {
+        width: 80%;
+    }
+
+    .blog-button {
+        width: 50%;
+    }
+
+    .blog-content {
+        background: black no-repeat center;
+        background-size: cover;
+        height: 100%;
+        align-items: center;
+        position: relative;
+        padding: 2vh 2vw;
+    }
+
+    .blog-row {
+        padding: 4vh 0;
+    }
+
+    .sample-img {
+        width: 100%;
+    }
+
+    .content-title {
+        padding-top: 1vh;
+        font-size: 20px;
+        line-height: 3vh;
+        color: #ff6600;
+    }
+
+    .content-nameDate {
+        padding-top: 1vh;
+        font-size: 16px;
+        line-height: 2vh;
+        color: white;
+    }
+
+    .blog-text {
+        padding-top: 1vh;
+        font-size: 14px;
+        color: white;
+        display: -webkit-box;
+        -webkit-line-clamp: 5;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+
+    .read-more {
+        color: #ff6600;
+        cursor: pointer;
+    }
+}

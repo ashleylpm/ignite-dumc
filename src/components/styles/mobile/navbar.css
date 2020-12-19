@@ -1,0 +1,22 @@
+@media only screen and (max-width: 1199px) {
+
+    .nav-container{
+        position: relative;
+        top: 1vh;
+        z-index: 99;
+    }
+
+    .ignite-logoMobile {
+        height: 1.5vh;
+    }
+
+    .navbar img {
+        padding: 0 0.25vw;
+    }
+
+    .navbar .navbar-homeMobile, .navbar-igniteylsMobile, .navbar-igniterallyMobile, .navbar-blogMobile {
+        height: 1.5vh;
+        display:block;
+        margin:auto;
+    }
+}

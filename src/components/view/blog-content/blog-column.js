@@ -6,7 +6,7 @@ class BlogColumn extends Component {
 
     render() {
         return (
-            <RB.Col>
+            <RB.Col className="content-column">
                 <div className="blog-image text-center">
                     <img src={require('../../images/assets/blog/sampleImg.png')} alt="blog-title"
                     className="sample-img"/>

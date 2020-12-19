@@ -1,14 +1,14 @@
 import React, { Component } from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import BlogRow from "../blog-content/blog-row";
-import NavigationBar from "./navigation-bar";
+import NavigationBarMobile from "./navigation-bar-mobile";
+import BlogColumn from "../blog-content/blog-column";
 
 class Blog extends Component {
     render() {
         return (
             <div>
                 <div className="blog-header text-center">
-                    <NavigationBar />
+                    <NavigationBarMobile />
                     <div className="header-content">
                         <div>
                             <img src={require('../../images/assets/blog/summitUpTitle.png')} alt="blog-title"
@@ -24,8 +24,9 @@ class Blog extends Component {
                 </div>
 
                 <div className="blog-content">
-                    <BlogRow />
-                    <BlogRow />
+                    <BlogColumn />
+                    <BlogColumn />
+                    <BlogColumn />
                 </div>
             </div>
         )

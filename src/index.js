@@ -4,13 +4,18 @@ import { BrowserRouter as Router } from "react-router-dom";
 
 import './index.css';
 import './components/styles/desktop/home.css';
-import './components/styles/mobile/home.css';
-import './components/styles/desktop/youth.css';
-import './components/styles/mobile/youth.css';
-import './components/styles/desktop/rally.css';
-import './components/styles/mobile/rally.css';
 import './components/styles/desktop/blog.css';
+import './components/styles/desktop/rally.css';
 import './components/styles/desktop/content.css';
+import './components/styles/desktop/navbar.css';
+import './components/styles/desktop/youth.css';
+
+import './components/styles/mobile/home.css';
+import './components/styles/mobile/youth.css';
+import './components/styles/mobile/rally.css';
+import './components/styles/mobile/blog.css';
+import './components/styles/mobile/content.css';
+import './components/styles/mobile/navbar.css';
 
 
 import MainDesktop from "./components/routes/desktop/main";

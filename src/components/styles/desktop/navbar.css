@@ -1,0 +1,39 @@
+@media only screen and (min-width: 1200px) {
+
+    .nav-container{
+        position: relative;
+        top: 3vh;
+        left: 0;
+        z-index: 99;
+    }
+
+    .ignite-Logo img {
+        float: left;
+        height: 3vh;
+        padding: 0 2vw;
+    }
+
+    .navbar {
+        float:right
+    }
+
+    .navbar img {
+        padding: 0 2vw;
+    }
+
+    .navbar .navbar-home {
+        height: 3vh
+    }
+
+    .navbar .navbar-igniteyls {
+        height: 3vh
+    }
+
+    .navbar .navbar-igniterally {
+        height: 3vh
+    }
+
+    .navbar .navbar-blog {
+        height: 3vh
+    }
+}
