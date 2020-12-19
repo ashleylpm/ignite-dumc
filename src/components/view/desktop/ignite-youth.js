@@ -4,6 +4,7 @@ import HomePage from "../../routes/desktop/home";
 import { FormContainer2 } from "../form/form-container/index2";
 import * as RB from "react-bootstrap";
 import Instagram from "./instagram";
+import LiveStream from "../../routes/desktop/watchStream";
 
 function igniteYouth() {
 
@@ -25,7 +26,7 @@ function igniteYouth() {
                         <RB.Col className="rightSchedule">
                             <img src={require('../../images/assets/youth/scheduleTime2.png')}  className="scheduleTime" alt="schedule-time"/><br/>
                             <img src={require('../../images/assets/youth/physicalText.png')}  className="scheduleOnline" alt="schedule-online"/><br/>
-                            <FormContainer2 /><br/>
+                            <LiveStream /><br/>
                         </RB.Col>
                     </RB.Row>
                 </div>
