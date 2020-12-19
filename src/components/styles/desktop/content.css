@@ -1,0 +1,56 @@
+@media only screen and (min-width: 1200px) {
+    .popup-content::-webkit-scrollbar {
+        display: none;
+    }
+
+    .content-image{
+        padding-top: 5vh;
+        padding-bottom: 2vh;
+        width: 80%;
+    }
+
+    .popup-content {
+        margin: auto;
+        background: orange;
+        width: 50%;
+        padding: 5px;
+        height: 95%;
+        overflow:auto;
+        -ms-overflow-style: none;  /* IE and Edge */
+        scrollbar-width: none;  /* Firefox */
+    }
+
+    .popup-overlay {
+        background: rgba(0, 0, 0, 0.9);
+    }
+
+    /* index.css */
+    .modal2 {
+        font-size: 12px;
+        positon: relative;
+        display: block;
+    }
+
+    .modal2 > .header {
+        width: 50%;
+        font-size: 18px;
+        font-weight: bold;
+        padding: 0 2vw;
+    }
+
+    .modal2 > .nameDate {
+        width: 50%;
+        font-size: 14px;
+        padding: 0 2vw;
+        color: white;
+    }
+
+    .modal2 > .content {
+        width: 100%;
+        padding: 1vw 2vw;
+        color: white;
+        font-size: 16px;
+        text-align: justify;
+        text-justify: inter-word;
+    }
+}

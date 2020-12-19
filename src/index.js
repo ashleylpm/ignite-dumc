@@ -10,6 +10,7 @@ import './components/styles/mobile/youth.css';
 import './components/styles/desktop/rally.css';
 import './components/styles/mobile/rally.css';
 import './components/styles/desktop/blog.css';
+import './components/styles/desktop/content.css';
 
 
 import MainDesktop from "./components/routes/desktop/main";

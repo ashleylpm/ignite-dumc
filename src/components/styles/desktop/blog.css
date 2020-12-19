@@ -37,34 +37,35 @@
     }
 
     .sample-img {
-        width: 80%;
+        width: 100%;
     }
 
     .content-title {
-        padding-top: 2vh;
-        font-size: 25px;
+        padding-top: 1vh;
+        font-size: 20px;
         line-height: 3vh;
         color: orange;
     }
 
     .content-nameDate {
-        padding: 1vh 0;
-        font-size: 20px;
-        line-height: 3vh;
+        padding-top: 1vh;
+        font-size: 16px;
+        line-height: 2vh;
         color: white;
     }
 
     .blog-text {
+        padding-top: 1vh;
+        font-size: 14px;
         color: white;
-        text-align: justify;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
     }
 
-    .blog-text a{
+    .read-more {
         color: orange;
-    }
-
-    .blog-text a:hover {
-        color: orange;
-        text-decoration: none;
+        cursor: pointer;
     }
 }
