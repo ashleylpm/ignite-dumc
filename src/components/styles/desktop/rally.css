@@ -21,10 +21,15 @@
     }
 
     .rallySchedule {
-        background: black url("../../images/background/desktop/rally/background-2.png") no-repeat center;
+        background: black center;
         background-size: cover;
-        height: 110vh;
+        height: 140vh;
         align-items: center;
+    }
+
+    .rallySchedule .watchLive img {
+        padding: 10vh 0;
+        width: 30%;
     }
 
     .rallySchedule .streamingTime img {
@@ -35,10 +40,7 @@
     }
 
     .rallySchedule .whatsHappening img {
-        margin-top: 10vh;
-        margin-left: 30%;
         width: 40%;
-        height: auto;
     }
 
     .rallyInfo {

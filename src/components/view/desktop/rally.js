@@ -2,8 +2,10 @@ import React from "react";
 import * as RB from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import HomePage from "../../routes/desktop/home";
+import LiveStream from "../../routes/desktop/watchStream";
 
 function Rally() {
+
     return (
         <div>
             <div className="igniteRally">
@@ -17,7 +19,8 @@ function Rally() {
                 <div className="streamingTime">
                     <img src={require('../../images/assets/rally/streamingLive.png')}/>
                 </div>
-                <div className="whatsHappening">
+                <LiveStream />
+                <div className="whatsHappening text-center">
                     <img src={require('../../images/assets/rally/schedule.png')}/>
                 </div>
             </div>

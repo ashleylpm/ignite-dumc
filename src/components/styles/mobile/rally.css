@@ -24,6 +24,11 @@
         padding-bottom: 5vh;
     }
 
+    .rallySchedule .watchLive img {
+        padding-top: 5vh;
+        width: 50%;
+    }
+
     .rallySchedule .streamingTime img {
         margin-top: 5vh;
         margin-left: 25%;

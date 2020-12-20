@@ -6,6 +6,7 @@ import RegisterBtn from "../../routes/desktop/youth1";
 import TellMeMoreBtn from "../../routes/desktop/youth2";
 import TellMeMoreBtn2 from "../../routes/desktop/rally";
 import Instagram from "./instagram";
+import LiveStream from "../../routes/desktop/watchStream";
 
 function Home() {
     const opts = {
@@ -25,7 +26,7 @@ function Home() {
                         <img src={require('../../images/assets/home/dateLocation.png')} alt="date-location"/>
                     </RB.Col>
                 </RB.Row>
-                <RegisterBtn />
+                <LiveStream /><br/>
             </div>
 
             <div className="section-2 text-center">

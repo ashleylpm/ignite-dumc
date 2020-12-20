@@ -21,7 +21,7 @@
         width: 50%;
     }
 
-    .section-1 .registerHomeBtn img {
+    .section-1 .watchLive img {
         padding-top: 10vh;
         width: 50%;
     }
@@ -118,7 +118,6 @@
     }
 
     .scheduleContainer .registerHomeBtn img {
-        padding-top: 10vh;
         width: 70%;
     }
 }

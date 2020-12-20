@@ -6,6 +6,7 @@ import RegisterBtn from "../../routes/mobile/youth1";
 import TellMeMoreBtn from "../../routes/mobile/youth2";
 import TellMeMoreBtn2 from "../../routes/mobile/rally";
 import InstagramMobile from "./instagram";
+import LiveStream from "../../routes/desktop/watchStream";
 
 function Home() {
     const opts = {
@@ -22,7 +23,7 @@ function Home() {
                     <br/>
                     <img src={require('../../images/assets/mobile/timeTitle.png')}/>
                 </div>
-                <RegisterBtn />
+                <LiveStream />
             </div>
 
             <div className="section-2 text-center">
