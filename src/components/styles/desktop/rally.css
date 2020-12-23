@@ -39,6 +39,10 @@
         height: auto;
     }
 
+    .rallySchedule .whatsHappening {
+        margin: 10vh 0;
+    }
+
     .rallySchedule .whatsHappening img {
         width: 40%;
     }

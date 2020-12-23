@@ -81,6 +81,12 @@
         cursor: pointer;
     }
 
+    .rightSchedule .watchLive img {
+        padding-top: 5vh;
+        width: 50%;
+    }
+
+
     .registrationCloses {
         width: 50%;
         height: auto;
