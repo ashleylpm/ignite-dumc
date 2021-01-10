@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import NavigationBarMobile from "./navigation-bar-mobile";
-import BlogColumn from "../blog-content/blog-column";
+import BlogRow from "../blog-content/blog-row";
 
 class Blog extends Component {
     render() {
@@ -24,9 +24,7 @@ class Blog extends Component {
                 </div>
 
                 <div className="blog-content">
-                    <BlogColumn />
-                    <BlogColumn />
-                    <BlogColumn />
+                    <BlogRow />
                 </div>
             </div>
         )

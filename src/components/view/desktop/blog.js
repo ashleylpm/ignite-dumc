@@ -25,7 +25,6 @@ class Blog extends Component {
 
                 <div className="blog-content">
                     <BlogRow />
-                    <BlogRow />
                 </div>
             </div>
         )
