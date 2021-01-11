@@ -13,7 +13,7 @@ class Blog2 extends Component {
                     {/*    className="sample-img"/>*/}
                     {/*</div>*/}
                     <div className="content-nameDate font-gothamBlack">
-                        Group 1
+                        Group 2
                     </div>
                     <div className="content-title font-gothamBlack">
                         Watchnight

@@ -5,6 +5,7 @@ import { FormContainer2 } from "../form/form-container/index2";
 import * as RB from "react-bootstrap";
 import Instagram from "./instagram";
 import LiveStream from "../../routes/desktop/watchStream";
+import NavigationBar from "./navigation-bar";
 
 function igniteYouth() {
 
@@ -12,7 +13,7 @@ function igniteYouth() {
         <div>
             <div id="contentIYLS-desktop">
                 <div className="igniteYouth">
-                    <HomePage />
+                    <NavigationBar />
                     <RB.Row className="igniteTitle text-center">
                         <img src={require('../../images/assets/common/igniteSummit.png')} alt="ignite-summit"/>
                     </RB.Row>

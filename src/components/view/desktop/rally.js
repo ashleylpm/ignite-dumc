@@ -3,13 +3,14 @@ import * as RB from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import HomePage from "../../routes/desktop/home";
 import LiveStream from "../../routes/desktop/watchStream";
+import NavigationBar from "./navigation-bar";
 
 function Rally() {
 
     return (
         <div>
             <div className="igniteRally">
-                <HomePage/>
+                <NavigationBar />
                 <RB.Row className="rallyTitle text-center">
                     <img src={require('../../images/assets/rally/igniteRally.png')}/>
                 </RB.Row>

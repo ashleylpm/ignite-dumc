@@ -4,6 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import HomePage from "../../routes/desktop/home";
 import YouTube from "react-youtube";
 import LiveStream from "../../routes/desktop/watchStream";
+import NavigationBarMobile from "./navigation-bar-mobile";
 
 function Rally() {
 
@@ -16,7 +17,7 @@ function Rally() {
     return (
         <div>
             <div className="igniteRally">
-                <HomePage/>
+                <NavigationBarMobile />
                 <RB.Row className="rallyTitle text-center">
                     <img src={require('../../images/assets/rally/igniteRally.png')}/>
                 </RB.Row>

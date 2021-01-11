@@ -14,34 +14,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11d1a5ba-b057-4899-acdf-71cc8297de1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/view/blog-content/blog-details/blog1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/view/blog-content/blog-details/blog2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homecrowd-new-fe/.idea/homecrowd-new-fe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homecrowd-new-fe/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ignite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ignite.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/images/background/Desktop/blog/header-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/images/background/desktop/blog/header-bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/images/background/Desktop/home/column1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/images/background/desktop/home/column1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/images/background/Desktop/home/column2-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/images/background/desktop/home/column2-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/images/background/Desktop/home/column2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/images/background/desktop/home/column2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/images/background/Desktop/home/section1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/images/background/desktop/home/section1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/images/background/Desktop/home/section2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/images/background/desktop/home/section2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/images/background/Desktop/home/section4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/images/background/desktop/home/section4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/images/background/Desktop/igniteYouth/andyBg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/images/background/desktop/igniteYouth/andyBg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/images/background/Desktop/igniteYouth/marrianeBg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/images/background/desktop/igniteYouth/marrianeBg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/images/background/Desktop/igniteYouth/section1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/images/background/desktop/igniteYouth/section1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/images/background/Desktop/igniteYouth/section2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/images/background/desktop/igniteYouth/section2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/images/background/Desktop/igniteYouth/section3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/images/background/desktop/igniteYouth/section3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/images/background/Desktop/igniteYouth/section4-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/images/background/desktop/igniteYouth/section4-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/images/background/Desktop/igniteYouth/section4-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/images/background/desktop/igniteYouth/section4-3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/images/background/Desktop/igniteYouth/section5.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/images/background/desktop/igniteYouth/section5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/images/background/Desktop/igniteYouth/section6.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/images/background/desktop/igniteYouth/section6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/images/background/Desktop/rally/background-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/images/background/desktop/rally/background-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/images/background/Desktop/rally/background-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/images/background/desktop/rally/background-2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/images/background/Desktop/rally/background-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/images/background/desktop/rally/background-3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/styles/desktop/blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/desktop/blog.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/styles/mobile/blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/mobile/blog.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/view/blog-content/blog-column.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/view/blog-content/blog-row.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/blog-content/blog-row.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/view/desktop/blog.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/desktop/blog.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/view/mobile/blog.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/mobile/blog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/styles/desktop/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/desktop/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/styles/desktop/navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/desktop/navbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/styles/desktop/rally.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/desktop/rally.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/styles/desktop/youth.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/desktop/youth.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/view/blog-content/blog-details/blog2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/blog-content/blog-details/blog2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/view/desktop/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/desktop/home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/view/desktop/ignite-youth.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/desktop/ignite-youth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/view/desktop/navigation-bar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/desktop/navigation-bar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/view/desktop/rally.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/desktop/rally.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/view/mobile/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/mobile/home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/view/mobile/ignite-youth.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/mobile/ignite-youth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/view/mobile/rally.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/mobile/rally.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,10 +186,10 @@
     </state>
     <state x="776" y="245" key="RollbackChangesDialog/0.0.1920.1050/1920.250.1920.1050@0.0.1920.1050" timestamp="1606477339617" />
     <state x="2696" y="495" key="RollbackChangesDialog/0.0.1920.1050/1920.250.1920.1050@1920.250.1920.1050" timestamp="1603683446059" />
-    <state x="338" y="61" width="1507" height="699" key="find.popup" timestamp="1606508787378">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="266" y="97" width="1130" height="599" key="find.popup" timestamp="1610338910468">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="266" y="97" width="1130" height="599" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1603080205538" />
+    <state x="266" y="97" width="1130" height="599" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1610338910468" />
     <state x="338" y="61" width="1507" height="699" key="find.popup/0.0.1920.1050/1920.250.1920.1050@0.0.1920.1050" timestamp="1606508787378" />
     <state x="2275" y="363" width="1507" height="699" key="find.popup/0.0.1920.1050/1920.250.1920.1050@1920.250.1920.1050" timestamp="1603721081568" />
     <state x="667" y="295" width="586" height="490" key="find.popup/1920.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1601973251576" />
@@ -207,10 +199,10 @@
     </state>
     <state x="625" y="231" key="run.anything.popup/0.0.1920.1050/1920.250.1920.1050@0.0.1920.1050" timestamp="1604079061038" />
     <state x="625" y="256" key="run.anything.popup/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1602741572656" />
-    <state x="1073" y="178" width="672" height="672" key="search.everywhere.popup" timestamp="1604065189568">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="805" y="152" width="670" height="576" key="search.everywhere.popup" timestamp="1610338852535">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="805" y="152" width="670" height="576" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1603080345424" />
+    <state x="805" y="152" width="670" height="576" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1610338852535" />
     <state x="1073" y="178" width="672" height="672" key="search.everywhere.popup/0.0.1920.1050/1920.250.1920.1050@0.0.1920.1050" timestamp="1604065189568" />
     <state x="1073" y="202" width="670" height="676" key="search.everywhere.popup/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1603172741078" />
     <state x="600" y="443" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1601955556760">

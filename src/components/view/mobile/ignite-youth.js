@@ -1,17 +1,17 @@
 import React from "react";
-import HomePage from "../../routes/desktop/home";
-import { FormContainer2 } from "../form/form-container/index2";
 import * as RB from "react-bootstrap";
+import 'bootstrap/dist/css/bootstrap.min.css';
 import InstagramMobile from "./instagram";
 import LiveStream from "../../routes/desktop/watchStream";
+import NavigationBarMobile from "./navigation-bar-mobile";
 
 function First() {
 
     return (
         <div>
-            <div id="contentIYLS-desktop">
+            <div id="contentIYLS-mobile">
                 <div className="igniteYouth">
-                    <HomePage />
+                    <NavigationBarMobile />
                     <RB.Row className="igniteTitle text-center">
                         <img src={require('../../images/assets/common/igniteSummit.png')}/>
                     </RB.Row>

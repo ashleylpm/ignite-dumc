@@ -4,7 +4,6 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="web" />
-    <orderEntry type="module" module-name="library" />
+    <orderEntry type="module" module-name="homecrowd-new-fe" />
   </component>
 </module>

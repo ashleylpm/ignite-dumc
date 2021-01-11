@@ -8,7 +8,6 @@ function NavigationBar () {
                 <img src={require('../../images/assets/common/igniteMyLogo.png')}/>
             </div>
 
-
             <div className="navbar">
                 <Link to="/">
                     <img src={require('../../images/assets/navbar/home.png')} className="navbar-home"/>

@@ -7,6 +7,7 @@ import TellMeMoreBtn from "../../routes/desktop/youth2";
 import TellMeMoreBtn2 from "../../routes/desktop/rally";
 import Instagram from "./instagram";
 import LiveStream from "../../routes/desktop/watchStream";
+import NavigationBar from "./navigation-bar";
 
 function Home() {
     const opts = {
@@ -18,6 +19,7 @@ function Home() {
     return (
         <div>
             <div className="section-1 text-center">
+                <NavigationBar />
                 <RB.Row className="topTitle">
                     <RB.Col className="leftTitle">
                         <img src={require('../../images/assets/common/igniteSummit.png')} alt="ignite-summit"/>
