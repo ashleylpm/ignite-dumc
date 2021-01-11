@@ -2,7 +2,7 @@ import React, {Component} from "react";
 import * as RB from "react-bootstrap";
 import ReadMore from "../read-more";
 
-class Blog extends Component {
+class Blog38 extends Component {
 
     render() {
         return (
@@ -13,10 +13,10 @@ class Blog extends Component {
                     {/*    className="sample-img"/>*/}
                     {/*</div>*/}
                     <div className="content-nameDate font-gothamBlack">
-                        Group XX
+                        Group 28
                     </div>
                     <div className="content-title font-gothamBlack">
-                        GROUP NAME
+                    School - Wanna start prayer groups in hostel
                     </div>
                     <div className="blog-text font-gothamLight">
                         <table>
@@ -26,47 +26,41 @@ class Blog extends Component {
                                 <th>Option 1</th>
                                 <th>Option 2</th>
                                 <th>Option 3</th>
-                                <th>Option 4</th>
                             </tr>
                             <tr>
-                                <td>TITLE1</td>
-                                <td>ROW1</td>
-                                <td>ROW1</td>
-                                <td>ROW1</td>
-                                <td>ROW1</td>
-                                <td>ROW1</td>
+                                <td>Location</td>
+                                <td>hostel</td>
+                                <td>classroom</td>
+                                <td>canteen</td>
+                                <td>library</td>
                             </tr>
                             <tr>
-                                <td>TITLE2</td>
-                                <td>ROW2</td>
-                                <td>ROW2</td>
-                                <td>ROW2</td>
-                                <td>ROW2</td>
-                                <td>ROW2</td>
+                                <td>Duration</td>
+                                <td>2 hours</td>
+                                <td>30 mins</td>
+                                <td>1 hr</td>
+                                <td>1 hr 30 mins</td>
                             </tr>
                             <tr>
-                                <td>TITLE3</td>
-                                <td>ROW3</td>
-                                <td>ROW3</td>
-                                <td>ROW3</td>
-                                <td>ROW3</td>
-                                <td>ROW3</td>
+                                <td>How often</td>
+                                <td>Once a week</td>
+                                <td>Twice a week</td>
+                                <td>Three times a week</td>
+                                <td>Everyday</td>
                             </tr>
                             <tr>
-                                <td>TITLE4</td>
-                                <td>ROW4</td>
-                                <td>ROW4</td>
-                                <td>ROW4</td>
-                                <td>ROW4</td>
-                                <td>ROW4</td>
+                                <td>Activity</td>
+                                <td>dance</td>
+                                <td>Sharing of experience</td>
+                                <td>Worship in songs</td>
+                                <td></td>
                             </tr>
                             <tr>
-                                <td>TITLE5</td>
-                                <td>ROW5</td>
-                                <td>ROW5</td>
-                                <td>ROW5</td>
-                                <td>ROW5</td>
-                                <td>ROW5</td>
+                                <td>How many people</td>
+                                <td>Whoever wants to join (not limited</td>
+                                <td>10</td>
+                                <td>20</td>
+                                <td>30</td>
                             </tr>
                         </table>
                     </div>
@@ -77,4 +71,4 @@ class Blog extends Component {
 
 }
 
-export default Blog;
+export default Blog38;

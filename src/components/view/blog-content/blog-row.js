@@ -33,6 +33,33 @@ import Blog30 from "./blog-details/blog30";
 import Blog31 from "./blog-details/blog31";
 import Blog32 from "./blog-details/blog32";
 import Blog33 from "./blog-details/blog33";
+import Blog34 from "./blog-details/blog34";
+import Blog35 from "./blog-details/blog35";
+import Blog36 from "./blog-details/blog36";
+import Blog37 from "./blog-details/blog37";
+import Blog38 from "./blog-details/blog38";
+import Blog39 from "./blog-details/blog39";
+import Blog40 from "./blog-details/blog40";
+import Blog41 from "./blog-details/blog41";
+import Blog42 from "./blog-details/blog42";
+import Blog43 from "./blog-details/blog43";
+import Blog44 from "./blog-details/blog44";
+import Blog45 from "./blog-details/blog45";
+import Blog46 from "./blog-details/blog46";
+import Blog47 from "./blog-details/blog47";
+import Blog48 from "./blog-details/blog48";
+import Blog49 from "./blog-details/blog49";
+import Blog50 from "./blog-details/blog50";
+import Blog51 from "./blog-details/blog51";
+import Blog52 from "./blog-details/blog52";
+import Blog53 from "./blog-details/blog53";
+import Blog54 from "./blog-details/blog54";
+import Blog55 from "./blog-details/blog55";
+import Blog56 from "./blog-details/blog56";
+import Blog57 from "./blog-details/blog57";
+import Blog58 from "./blog-details/blog58";
+import Blog59 from "./blog-details/blog59";
+import Blog60 from "./blog-details/blog60";
 
 function BlogRow () {
     return (
@@ -70,6 +97,33 @@ function BlogRow () {
             <Blog31 />
             <Blog32 />
             <Blog33 />
+            <Blog34 />
+            <Blog35 />
+            <Blog36 />
+            <Blog37 />
+            <Blog38 />
+            <Blog39 />
+            <Blog40 />
+            <Blog41 />
+            <Blog42 />
+            <Blog43 />
+            <Blog44 />
+            <Blog45 />
+            <Blog46 />
+            <Blog47 />
+            <Blog48 />
+            <Blog49 />
+            <Blog50 />
+            <Blog51 />
+            <Blog52 />
+            <Blog53 />
+            <Blog54 />
+            <Blog55 />
+            <Blog56 />
+            <Blog57 />
+            <Blog58 />
+            <Blog59 />
+            <Blog60 />
         </div>
     );
 }

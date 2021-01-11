@@ -2,7 +2,7 @@ import React, {Component} from "react";
 import * as RB from "react-bootstrap";
 import ReadMore from "../read-more";
 
-class Blog extends Component {
+class Blog58 extends Component {
 
     render() {
         return (
@@ -13,10 +13,10 @@ class Blog extends Component {
                     {/*    className="sample-img"/>*/}
                     {/*</div>*/}
                     <div className="content-nameDate font-gothamBlack">
-                        Group XX
+                    Group 41
                     </div>
                     <div className="content-title font-gothamBlack">
-                        GROUP NAME
+                    Worship Session
                     </div>
                     <div className="blog-text font-gothamLight">
                         <table>
@@ -26,47 +26,41 @@ class Blog extends Component {
                                 <th>Option 1</th>
                                 <th>Option 2</th>
                                 <th>Option 3</th>
-                                <th>Option 4</th>
                             </tr>
                             <tr>
-                                <td>TITLE1</td>
-                                <td>ROW1</td>
-                                <td>ROW1</td>
-                                <td>ROW1</td>
-                                <td>ROW1</td>
-                                <td>ROW1</td>
+                                <td>Time, date</td>
+                                <td>Sunday 10am</td>
+                                <td>friday, 8pm</td>
+                                <td>Wednesday, 8pm</td>
+                                <td>Saturday, 3pm</td>
                             </tr>
                             <tr>
-                                <td>TITLE2</td>
-                                <td>ROW2</td>
-                                <td>ROW2</td>
-                                <td>ROW2</td>
-                                <td>ROW2</td>
-                                <td>ROW2</td>
+                                <td>venue</td>
+                                <td>church</td>
+                                <td>online</td>
+                                <td>cafe</td>
+                                <td>house</td>
                             </tr>
                             <tr>
-                                <td>TITLE3</td>
-                                <td>ROW3</td>
-                                <td>ROW3</td>
-                                <td>ROW3</td>
-                                <td>ROW3</td>
-                                <td>ROW3</td>
+                                <td>community</td>
+                                <td>Believers </td>
+                                <td>non-believers</td>
+                                <td>High school students only </td>
+                                <td>Family &amp; friends/family friends</td>
                             </tr>
                             <tr>
-                                <td>TITLE4</td>
-                                <td>ROW4</td>
-                                <td>ROW4</td>
-                                <td>ROW4</td>
-                                <td>ROW4</td>
-                                <td>ROW4</td>
+                                <td>material</td>
+                                <td>Song list + instruments + bible</td>
+                                <td>Laptop + Song list + instruments + bible + mic</td>
+                                <td>Bible + DJ + MC</td>
+                                <td>Bible + tv + instruments </td>
                             </tr>
                             <tr>
-                                <td>TITLE5</td>
-                                <td>ROW5</td>
-                                <td>ROW5</td>
-                                <td>ROW5</td>
-                                <td>ROW5</td>
-                                <td>ROW5</td>
+                                <td>elements</td>
+                                <td>Prayer </td>
+                                <td>Preaching (international speaker 15-20 mins)</td>
+                                <td>5 min sharing</td>
+                                <td>Food (bbq) + prayer + testimonies</td>
                             </tr>
                         </table>
                     </div>
@@ -77,4 +71,4 @@ class Blog extends Component {
 
 }
 
-export default Blog;
+export default Blog58;
