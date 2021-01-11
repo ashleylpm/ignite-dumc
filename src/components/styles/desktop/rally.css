@@ -13,6 +13,11 @@
         height: auto;
     }
 
+    .rallyTitle {
+        width: 100%;
+        padding-top: 10vh;
+    }
+
     .igniteRally .rallyTitle img {
         margin-top: 20vh;
         margin-left: 30%;

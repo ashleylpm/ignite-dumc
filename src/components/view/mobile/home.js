@@ -7,6 +7,7 @@ import TellMeMoreBtn from "../../routes/mobile/youth2";
 import TellMeMoreBtn2 from "../../routes/mobile/rally";
 import InstagramMobile from "./instagram";
 import LiveStream from "../../routes/desktop/watchStream";
+import NavigationBarMobile from "./navigation-bar-mobile";
 
 function Home() {
     const opts = {
@@ -18,6 +19,7 @@ function Home() {
     return (
         <div>
             <div className="section-1">
+                <NavigationBarMobile />
                 <div className="titleContainer text-center">
                     <img src={require('../../images/assets/common/igniteSummit.png')}/>
                     <br/>
