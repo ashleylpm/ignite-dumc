@@ -6,20 +6,18 @@ import ReactHtmlParser, { processNodes, convertNodeToElement, htmlparser2 } from
 export const BlogRow = () => {
     return (
         <div className="blog-row">
-            <RB.Row>
                 {blogData.map((data, key) => {
                     return (
-                        <div key={key}>
+                        <RB.Row key={key}>
                             <BlogContent
                                 key={key}
                                 group={data.group}
                                 title={data.title}
                                 html={data.html}
                             />
-                        </div>
+                        </RB.Row>
                     );
                 })}
-            </RB.Row>
         </div>
     );
 };
