@@ -14,8 +14,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11d1a5ba-b057-4899-acdf-71cc8297de1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blog.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +41,9 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../react-paginate" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -106,6 +107,7 @@
       <workItem from="1606536452752" duration="1977000" />
       <workItem from="1610278609242" duration="2773000" />
       <workItem from="1611982151444" duration="2139000" />
+      <workItem from="1611985157276" duration="2270000" />
     </task>
     <servers />
   </component>
@@ -126,54 +128,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="729" y="327" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606500682014">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="729" y="327" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050/1920.250.1920.1050@0.0.1920.1050" timestamp="1606500682014" />
-    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1611982481453">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050/-1920.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1611982481453" />
-    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050/1920.250.1920.1050@0.0.1920.1050" timestamp="1606540420557" />
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1603729293891">
-      <screen x="1920" y="250" width="1920" height="1050" />
-    </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.250.1920.1050@1920.250.1920.1050" timestamp="1603729293891" />
-    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1603729293891">
-      <screen x="1920" y="250" width="1920" height="1050" />
-    </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050/1920.250.1920.1050@1920.250.1920.1050" timestamp="1603729293891" />
-    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1603729293890">
-      <screen x="1920" y="250" width="1920" height="1050" />
-    </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050/1920.250.1920.1050@1920.250.1920.1050" timestamp="1603729293890" />
-    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1603729293891">
-      <screen x="1920" y="250" width="1920" height="1050" />
-    </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050/1920.250.1920.1050@1920.250.1920.1050" timestamp="1603729293891" />
-    <state x="776" y="245" key="RollbackChangesDialog" timestamp="1606477339617">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="776" y="245" key="RollbackChangesDialog/0.0.1920.1050/1920.250.1920.1050@0.0.1920.1050" timestamp="1606477339617" />
-    <state x="2696" y="495" key="RollbackChangesDialog/0.0.1920.1050/1920.250.1920.1050@1920.250.1920.1050" timestamp="1603683446059" />
-    <state x="266" y="97" width="1130" height="599" key="find.popup" timestamp="1610338910468">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="266" y="97" width="1130" height="599" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1610338910468" />
-    <state x="338" y="61" width="1507" height="699" key="find.popup/0.0.1920.1050/1920.250.1920.1050@0.0.1920.1050" timestamp="1606508787378" />
-    <state x="2275" y="363" width="1507" height="699" key="find.popup/0.0.1920.1050/1920.250.1920.1050@1920.250.1920.1050" timestamp="1603721081568" />
-    <state x="625" y="231" key="run.anything.popup" timestamp="1604079061038">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="625" y="231" key="run.anything.popup/0.0.1920.1050/1920.250.1920.1050@0.0.1920.1050" timestamp="1604079061038" />
-    <state x="1073" y="177" width="894" height="672" key="search.everywhere.popup" timestamp="1611983643289">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="805" y="152" width="670" height="576" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1610338852535" />
-    <state x="1073" y="177" width="894" height="672" key="search.everywhere.popup/0.0.1920.1050/-1920.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1611983643289" />
-    <state x="1073" y="178" width="672" height="672" key="search.everywhere.popup/0.0.1920.1050/1920.250.1920.1050@0.0.1920.1050" timestamp="1604065189568" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
