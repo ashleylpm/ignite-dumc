@@ -1,4 +1,4 @@
-[
+export const blogData = [
   {
     "group": "Group 1",
     "title": "Winter Solstice Festival",
@@ -36,11 +36,11 @@
   },
 
 
-{
-  "group": "Group 9",
-  "title": "Make Covers of Christian Songs",
-  "html": " <table>\n                            <tr>\n                                <th>Part/Attributes </th>\n                                <th>Original</th>\n                                <th>Option 1</th>\n                            </tr>\n                            <tr>\n                                <td>Purpose</td>\n                                <td>Act as a bridge to non-Christian friends who would listen to your music but not go to church</td>\n                                <td>To remind Christians of the Gospel</td>\n                            </tr>\n                            <tr>\n                                <td>Platform</td>\n                                <td>Instagram</td>\n                                <td>YouTube</td>\n                            </tr>\n                            <tr>\n                                <td>Target Group</td>\n                                <td>Non-Christians</td>\n                                <td>Christian friends</td>\n                            </tr>\n                            <tr>\n                                <td>Collaborators </td>\n                                <td>Singer (name?)</td>\n                                <td>Singer (name?)</td>\n                            </tr>\n                            <tr>\n                                <td>Song choice</td>\n                                <td>O Come, All You Unfaithful</td>\n                                <td>Any Christmas songs?</td>\n                            </tr>\n                        </table>"
-},
+  {
+    "group": "Group 9",
+    "title": "Make Covers of Christian Songs",
+    "html": " <table>\n                            <tr>\n                                <th>Part/Attributes </th>\n                                <th>Original</th>\n                                <th>Option 1</th>\n                            </tr>\n                            <tr>\n                                <td>Purpose</td>\n                                <td>Act as a bridge to non-Christian friends who would listen to your music but not go to church</td>\n                                <td>To remind Christians of the Gospel</td>\n                            </tr>\n                            <tr>\n                                <td>Platform</td>\n                                <td>Instagram</td>\n                                <td>YouTube</td>\n                            </tr>\n                            <tr>\n                                <td>Target Group</td>\n                                <td>Non-Christians</td>\n                                <td>Christian friends</td>\n                            </tr>\n                            <tr>\n                                <td>Collaborators </td>\n                                <td>Singer (name?)</td>\n                                <td>Singer (name?)</td>\n                            </tr>\n                            <tr>\n                                <td>Song choice</td>\n                                <td>O Come, All You Unfaithful</td>\n                                <td>Any Christmas songs?</td>\n                            </tr>\n                        </table>"
+  },
 
   {
     "group": "Group 10",
@@ -359,4 +359,4 @@
     "title": "Acts of Kindness",
     "html": "<table>\n                            <tr>\n                                <th>Part/Attributes </th>\n                                <th>Original</th>\n                                <th>Option 1</th>\n                                <th>Option 2</th>\n                                <th>Option 3</th>\n                            </tr>\n                            <tr>\n                                <td>Location/Venue</td>\n                                <td>School</td>\n                                <td>Class</td>\n                                <td>Garden</td>\n                                <td>Canteen</td>\n                            </tr>\n                            <tr>\n                                <td>Activity</td>\n                                <td>Writing notes of encouragement</td>\n                                <td>Story-telling (through art: origami, sketching)</td>\n                                <td>Bible Story Skit</td>\n                                <td>Sharing Food (picnic)</td>\n                            </tr>\n                            <tr>\n                                <td>Time</td>\n                                <td>Recess Time</td>\n                                <td>Before School Assembly</td>\n                                <td>When School ends</td>\n                                <td>Class Party</td>\n                            </tr>\n                        </table>"
   }
-]
+];

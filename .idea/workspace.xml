@@ -15,7 +15,10 @@
   <component name="ChangeListManager">
     <list default="true" id="11d1a5ba-b057-4899-acdf-71cc8297de1f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/blog-content/blog-details/blogData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/view/blog-content/blog-row.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/blog-content/blog-row.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,19 +55,19 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\Work\ignite\src\components\view\blog-content\blog-details" />
+      <recent name="$PROJECT_DIR$/src/components/view/blog-content/blog-details" />
+      <recent name="C:\Users\User\Documents\Work\ignite\src\components\styles" />
+      <recent name="C:\Users\User\Documents\Work\ignite\src\components\styles\desktop" />
+      <recent name="C:\Users\User\Documents\Work\ignite\src\components\routes\desktop" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/components/view/blog-content/blog-details" />
       <recent name="C:\Users\User\Documents\Work\ignite\src" />
       <recent name="C:\Users\User\Documents\Work\ignite\src\components" />
       <recent name="C:\Users\User\Documents\Work\ignite\src\components\styles" />
       <recent name="C:\Users\User\Documents\Work\ignite\src\components\view\mobile" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/components/view/blog-content/blog-details" />
-      <recent name="C:\Users\User\Documents\Work\ignite\src\components\styles" />
-      <recent name="C:\Users\User\Documents\Work\ignite\src\components\styles\desktop" />
-      <recent name="C:\Users\User\Documents\Work\ignite\src\components\routes\desktop" />
-      <recent name="C:\Users\User\Documents\Work\ignite\src2" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -128,6 +131,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="623" y="227" key="search.everywhere.popup" timestamp="1612001358624">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" key="search.everywhere.popup/0.0.1920.1050/-1920.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1612001358624" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
