@@ -14,26 +14,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11d1a5ba-b057-4899-acdf-71cc8297de1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../homecrowd-new-fe/.idea/homecrowd-new-fe.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homecrowd-new-fe/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ignite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ignite.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/styles/desktop/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/desktop/home.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/styles/desktop/navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/desktop/navbar.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/styles/desktop/rally.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/desktop/rally.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/styles/desktop/youth.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/desktop/youth.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/view/blog-content/blog-details/blog2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/blog-content/blog-details/blog2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/view/desktop/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/desktop/home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/view/desktop/ignite-youth.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/desktop/ignite-youth.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/view/desktop/navigation-bar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/desktop/navigation-bar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/view/desktop/rally.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/desktop/rally.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/view/mobile/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/mobile/home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/view/mobile/ignite-youth.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/mobile/ignite-youth.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/view/mobile/rally.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/mobile/rally.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +42,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/view/blog-content/blog-details" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../react-paginate" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -123,6 +105,7 @@
       <workItem from="1606485069958" duration="19129000" />
       <workItem from="1606536452752" duration="1977000" />
       <workItem from="1610278609242" duration="2773000" />
+      <workItem from="1611982151444" duration="2139000" />
     </task>
     <servers />
   </component>
@@ -149,13 +132,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="729" y="327" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050/1920.250.1920.1050@0.0.1920.1050" timestamp="1606500682014" />
-    <state x="698" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601968595220">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="698" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1601968595220" />
-    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1606540420557">
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1611982481453">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050/-1920.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1611982481453" />
     <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050/1920.250.1920.1050@0.0.1920.1050" timestamp="1606540420557" />
     <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1603729293891">
       <screen x="1920" y="250" width="1920" height="1050" />
@@ -173,14 +153,6 @@
       <screen x="1920" y="250" width="1920" height="1050" />
     </state>
     <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050/1920.250.1920.1050@1920.250.1920.1050" timestamp="1603729293891" />
-    <state x="144" y="79" key="MergeDialog" timestamp="1603080645071">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="144" y="79" key="MergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1603080645071" />
-    <state x="358" y="218" key="MultipleFileMergeDialog" timestamp="1603080646390">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="358" y="218" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1603080646390" />
     <state x="776" y="245" key="RollbackChangesDialog" timestamp="1606477339617">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -192,24 +164,16 @@
     <state x="266" y="97" width="1130" height="599" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1610338910468" />
     <state x="338" y="61" width="1507" height="699" key="find.popup/0.0.1920.1050/1920.250.1920.1050@0.0.1920.1050" timestamp="1606508787378" />
     <state x="2275" y="363" width="1507" height="699" key="find.popup/0.0.1920.1050/1920.250.1920.1050@1920.250.1920.1050" timestamp="1603721081568" />
-    <state x="667" y="295" width="586" height="490" key="find.popup/1920.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1601973251576" />
-    <state x="355" y="137" width="1506" height="703" key="find.popup/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1602838396328" />
     <state x="625" y="231" key="run.anything.popup" timestamp="1604079061038">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="625" y="231" key="run.anything.popup/0.0.1920.1050/1920.250.1920.1050@0.0.1920.1050" timestamp="1604079061038" />
-    <state x="625" y="256" key="run.anything.popup/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1602741572656" />
-    <state x="805" y="152" width="670" height="576" key="search.everywhere.popup" timestamp="1610338852535">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="1073" y="177" width="894" height="672" key="search.everywhere.popup" timestamp="1611983643289">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="805" y="152" width="670" height="576" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1610338852535" />
+    <state x="1073" y="177" width="894" height="672" key="search.everywhere.popup/0.0.1920.1050/-1920.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1611983643289" />
     <state x="1073" y="178" width="672" height="672" key="search.everywhere.popup/0.0.1920.1050/1920.250.1920.1050@0.0.1920.1050" timestamp="1604065189568" />
-    <state x="1073" y="202" width="670" height="676" key="search.everywhere.popup/1920.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1603172741078" />
-    <state x="600" y="443" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1601955556760">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="450" y="369" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1440.900@0.0.1440.900" timestamp="1601950540798" />
-    <state x="600" y="443" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/1920.180.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1601955556760" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
