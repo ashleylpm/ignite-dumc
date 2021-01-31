@@ -5,6 +5,7 @@ import Home from "../../view/desktop/home";
 import Youth from "../../view/desktop/ignite-youth";
 import Rally from "../../view/desktop/rally";
 import Blog from "../../view/desktop/blog";
+import SubmitBlog from "../../view/blog-content/submit-blog"
 
 function Container({ location }) {
     return (
@@ -24,6 +25,7 @@ function Container({ location }) {
                             return null;
                         }} />
                         <Route path="/blog" component={Blog} />
+                        <Route path="/submit-blog" component={SubmitBlog} />
                     </Switch>
                 </CSSTransition>
             </TransitionGroup>

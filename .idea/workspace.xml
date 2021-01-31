@@ -14,7 +14,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11d1a5ba-b057-4899-acdf-71cc8297de1f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/view/blog-content/DynamicForm/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/view/blog-content/submit-blog.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/routes/desktop/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/routes/desktop/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/styles/desktop/blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/desktop/blog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/view/blog-content/blog-details/blogData.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/blog-content/blog-details/blogData.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/view/blog-content/blog-row.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/blog-content/blog-row.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,6 +115,7 @@
       <workItem from="1610278609242" duration="2773000" />
       <workItem from="1611982151444" duration="2139000" />
       <workItem from="1611985157276" duration="2270000" />
+      <workItem from="1612073556226" duration="13160000" />
     </task>
     <servers />
   </component>
@@ -130,6 +138,14 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="716" y="327" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612084912194">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="716" y="327" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050/-1920.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1612084912194" />
+    <state x="690" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1612085758452">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050/-1920.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1612085758452" />
     <state x="623" y="227" key="search.everywhere.popup" timestamp="1612001358624">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
