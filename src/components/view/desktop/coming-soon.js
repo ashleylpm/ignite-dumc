@@ -6,12 +6,12 @@ class ComingSoon extends Component {
         return (
             <div>
                 <div className="coming-soon">
-                    <div className="ignite-logo-loading my-auto container text-center">
+                    {/* <div className="ignite-logo-loading my-auto container text-center">
                     
-                        {/* { <img src={require('../../images/background/desktop/comingSoon/ignite-loading.gif')} alt="blog-title" 
+                        { <img src={require('../../images/background/desktop/comingSoon/ignite-loading.gif')} alt="blog-title" 
                         className=""
-                                 /> } */}
-                    </div>
+                                 /> }
+                    </div> */}
                     
                 </div>
             </div>
