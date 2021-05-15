@@ -120,4 +120,16 @@
     .scheduleContainer .registerHomeBtn img {
         width: 70%;
     }
+
+    .coming-soon {
+        background: black url("../../images/background/desktop/comingSoon/ignite-coming-soon-mobile.jpg") no-repeat center;
+        background-size: cover;
+        height: 100vh;
+        }
+
+        
+    .ignite-logo-loading img {
+        height:20rem;
+        margin-bottom:100px    
+    }
 }
