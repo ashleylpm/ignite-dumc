@@ -5,6 +5,7 @@ import Home from "../../view/desktop/home";
 import Youth from "../../view/desktop/ignite-youth";
 import Rally from "../../view/desktop/rally";
 import Blog from "../../view/desktop/blog";
+import ComingSoon from "../../view/desktop/coming-soon";
 import SubmitBlog from "../../view/blog-content/submit-blog"
 
 function Container({ location }) {
@@ -17,7 +18,8 @@ function Container({ location }) {
                     classNames={'fade'}
                 >
                     <Switch location={location}>
-                        <Route exact path="/" component={Home} />
+                        {/* <Route exact path="/" component={Home} /> */}
+                        <Route exact path="/" component={ComingSoon} />
                         <Route path="/ignite-youth" component={Youth} />
                         <Route path="/ignite-rally" component={Rally} />
                         <Route path="/watch" component={() => {

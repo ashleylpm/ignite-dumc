@@ -177,4 +177,17 @@
         width: 50%;
         height: auto;
     }
+
+    .coming-soon {
+        background: black url("../../images/background/desktop/comingSoon/ignite-coming-soon-bg.jpg") no-repeat top;
+        background-size: cover;
+        height: 100vh;
+        }
+
+        
+    .ignite-logo-loading img {
+        height:20rem;
+        margin-bottom:100px    
+    }
+
 }
